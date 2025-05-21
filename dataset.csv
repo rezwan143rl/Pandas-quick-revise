@@ -1,0 +1,501 @@
+CustomerID,Name,Age,Gender,PurchaseAmount,City
+1001,Linda Hernandez,69,Male,381.56,Philadelphia
+1002,Linda Garcia,33,Male,150.7,Philadelphia
+1003,Katie Johnson,30,Female,450.77,Los Angeles
+1004,Chris Williams,67,Male,272.76,San Antonio
+1005,Chris Martinez,59,Male,404.36,Phoenix
+1006,Laura Garcia,47,Male,489.89,Phoenix
+1007,Chris Johnson,36,Female,423.1,Philadelphia
+1008,John Miller,34,Female,436.16,Phoenix
+1009,Michael Williams,36,Female,215.83,New York
+1010,John Davis,45,Female,284.83,Philadelphia
+1011,Michael Smith,43,Female,141.87,Philadelphia
+1012,John Smith,54,Male,114.13,Houston
+1013,Alex Miller,43,Female,262.64,Phoenix
+1014,Laura Johnson,40,Female,305.62,San Antonio
+1015,Robert Garcia,26,Female,182.85,Philadelphia
+1016,Michael Davis,29,Male,293.33,San Diego
+1017,Emily Brown,18,Female,445.98,San Antonio
+1018,Emily Garcia,18,Female,287.23,New York
+1019,Laura Brown,64,Male,365.99,Houston
+1020,Alex Garcia,51,Female,406.55,Los Angeles
+1021,Robert Williams,49,Male,494.59,San Antonio
+1022,Katie Jones,65,Male,309.53,Philadelphia
+1023,Laura Johnson,42,Male,407.29,New York
+1024,Jane Johnson,57,Male,482.07,Chicago
+1025,John Hernandez,62,Male,473.32,New York
+1026,Alex Johnson,18,Female,87.72,New York
+1027,John Hernandez,33,Male,215.07,Houston
+1028,Alex Davis,56,Male,175.52,Los Angeles
+1029,Laura Garcia,22,Female,61.72,Chicago
+1030,Linda Hernandez,39,Male,323.96,Phoenix
+1031,Robert Johnson,46,Female,373.23,Phoenix
+1032,Alex Hernandez,20,Female,427.1,San Antonio
+1033,Alex Brown,29,Female,78.93,New York
+1034,Robert Smith,43,Male,440.69,San Diego
+1035,Laura Garcia,33,Male,328.6,Houston
+1036,John Brown,68,Male,357.89,San Diego
+1037,Chris Davis,54,Female,457.1,Houston
+1038,Robert Williams,39,Male,319.89,Phoenix
+1039,Linda Johnson,46,Male,181.22,San Antonio
+1040,Linda Hernandez,31,Male,416.05,San Antonio
+1041,Laura Johnson,45,Female,194.27,San Antonio
+1042,John Garcia,22,Female,36.43,Chicago
+1043,Chris Miller,64,Male,418.71,Los Angeles
+1044,Michael Smith,66,Male,185.69,Chicago
+1045,Jane Garcia,47,Male,391.44,Philadelphia
+1046,Linda Williams,63,Male,194.12,Philadelphia
+1047,Jane Brown,69,Female,433.31,San Diego
+1048,Linda Miller,22,Female,125.37,Los Angeles
+1049,Jane Davis,29,Female,487.78,Phoenix
+1050,Linda Williams,33,Female,394.28,Los Angeles
+1051,Emily Hernandez,43,Male,74.83,Houston
+1052,Katie Hernandez,43,Male,291.57,Philadelphia
+1053,Alex Brown,65,Male,492.98,New York
+1054,Michael Martinez,38,Female,246.11,New York
+1055,Alex Johnson,56,Male,107.41,Phoenix
+1056,Linda Williams,53,Female,252.69,Houston
+1057,Laura Jones,50,Female,265.98,San Diego
+1058,Laura Miller,47,Male,376.01,Chicago
+1059,Michael Williams,54,Male,355.45,Houston
+1060,Robert Garcia,40,Male,213.22,New York
+1061,Robert Brown,27,Female,124.65,New York
+1062,Laura Martinez,22,Male,329.63,San Diego
+1063,Emily Miller,53,Female,222.42,Philadelphia
+1064,John Brown,51,Male,83.49,Houston
+1065,Chris Jones,69,Female,452.27,Houston
+1066,Laura Smith,48,Female,351.79,New York
+1067,Emily Williams,27,Male,347.93,Chicago
+1068,Laura Johnson,36,Female,414.84,Phoenix
+1069,Laura Williams,49,Female,274.24,San Antonio
+1070,Jane Smith,18,Male,411.23,Phoenix
+1071,Katie Smith,22,Female,259.08,Houston
+1072,Alex Jones,62,Male,52.24,Phoenix
+1073,Chris Garcia,21,Female,214.52,New York
+1074,John Williams,33,Male,258.78,New York
+1075,Alex Williams,41,Male,365.7,San Diego
+1076,Chris Johnson,33,Female,71.16,Houston
+1077,Linda Martinez,19,Female,87.21,San Diego
+1078,Jane Brown,66,Female,146.57,Houston
+1079,Linda Davis,45,Female,147.92,San Antonio
+1080,Alex Davis,49,Female,371.45,San Antonio
+1081,Michael Johnson,44,Male,140.35,Philadelphia
+1082,Jane Martinez,37,Female,323.89,Houston
+1083,Alex Miller,41,Male,257.25,Chicago
+1084,Jane Johnson,29,Male,295.18,Phoenix
+1085,Jane Smith,67,Female,422.29,Houston
+1086,Robert Miller,52,Male,214.1,Los Angeles
+1087,Chris Johnson,50,Male,390.04,Philadelphia
+1088,Alex Johnson,50,Male,222.58,Los Angeles
+1089,Alex Johnson,68,Male,189.86,New York
+1090,Jane Jones,60,Female,480.14,San Antonio
+1091,Katie Davis,54,Male,108.5,Phoenix
+1092,Chris Smith,29,Female,63.36,Houston
+1093,Katie Miller,20,Female,390.07,Los Angeles
+1094,Alex Williams,18,Male,52.76,Phoenix
+1095,Katie Brown,50,Female,421.8,New York
+1096,Alex Jones,57,Female,229.85,San Antonio
+1097,Laura Miller,27,Female,459.45,Chicago
+1098,Alex Garcia,60,Male,366.34,Philadelphia
+1099,Robert Miller,61,Female,312.99,Phoenix
+1100,Emily Brown,46,Female,475.67,Phoenix
+1101,Jane Johnson,30,Female,210.39,Chicago
+1102,Linda Jones,29,Male,477.96,Phoenix
+1103,Emily Garcia,48,Female,84.8,New York
+1104,John Garcia,63,Male,252.2,New York
+1105,Laura Garcia,19,Male,149.56,Chicago
+1106,Linda Hernandez,68,Male,279.12,Philadelphia
+1107,Laura Hernandez,67,Male,97.77,Houston
+1108,Laura Miller,52,Male,423.93,Los Angeles
+1109,Jane Williams,40,Male,426.28,Houston
+1110,Chris Martinez,34,Female,478.51,Phoenix
+1111,Linda Johnson,43,Male,94.24,Los Angeles
+1112,Michael Williams,25,Female,319.2,San Diego
+1113,Linda Johnson,46,Female,247.63,Chicago
+1114,Jane Garcia,43,Male,185.3,Chicago
+1115,John Brown,27,Female,188.74,Philadelphia
+1116,Emily Garcia,43,Female,218.14,Los Angeles
+1117,Alex Johnson,51,Female,358.36,New York
+1118,Jane Brown,68,Female,307.18,Los Angeles
+1119,Jane Hernandez,58,Male,240.65,Phoenix
+1120,Jane Hernandez,24,Female,56.45,New York
+1121,Alex Johnson,21,Male,57.33,San Antonio
+1122,Emily Brown,67,Female,21.12,San Antonio
+1123,Linda Jones,62,Female,484.5,San Diego
+1124,Robert Johnson,28,Male,22.52,San Antonio
+1125,Linda Miller,46,Female,69.48,Chicago
+1126,Laura Williams,53,Female,171.01,Los Angeles
+1127,John Brown,42,Female,407.57,San Antonio
+1128,Alex Garcia,38,Male,481.81,Houston
+1129,Jane Miller,53,Female,399.21,Philadelphia
+1130,Jane Davis,27,Male,351.47,Houston
+1131,Chris Williams,54,Female,270.22,San Antonio
+1132,Linda Williams,26,Male,61.62,San Diego
+1133,Katie Davis,41,Male,479.92,Philadelphia
+1134,Robert Smith,52,Female,384.03,Phoenix
+1135,John Smith,66,Female,326.7,Houston
+1136,Chris Garcia,52,Male,384.34,San Diego
+1137,Michael Martinez,65,Male,367.57,Los Angeles
+1138,Robert Williams,53,Female,325.87,Los Angeles
+1139,Linda Hernandez,35,Male,490.68,Houston
+1140,Robert Miller,66,Female,453.61,San Antonio
+1141,Alex Miller,56,Female,330.4,San Diego
+1142,Jane Smith,49,Female,352.72,Los Angeles
+1143,Laura Williams,41,Female,44.77,Phoenix
+1144,Michael Miller,40,Male,341.56,New York
+1145,Alex Hernandez,49,Female,41.2,San Antonio
+1146,John Brown,54,Male,302.37,San Diego
+1147,Alex Smith,29,Female,499.69,Phoenix
+1148,Chris Martinez,66,Male,286.79,San Diego
+1149,Emily Johnson,30,Female,247.14,Philadelphia
+1150,Chris Davis,40,Male,170.17,Phoenix
+1151,Katie Williams,42,Male,77.85,San Antonio
+1152,Alex Martinez,52,Female,370.89,Philadelphia
+1153,Linda Jones,58,Female,112.45,San Antonio
+1154,Emily Brown,47,Female,75.34,Los Angeles
+1155,Chris Davis,34,Female,222.45,New York
+1156,Alex Garcia,66,Male,401.76,San Antonio
+1157,Linda Garcia,37,Female,377.63,San Antonio
+1158,Michael Miller,65,Male,46.34,Los Angeles
+1159,Laura Jones,42,Male,238.47,Chicago
+1160,John Johnson,39,Female,270.77,Los Angeles
+1161,Emily Johnson,30,Male,329.38,Philadelphia
+1162,Linda Martinez,36,Male,332.08,Los Angeles
+1163,Jane Garcia,66,Male,195.05,Los Angeles
+1164,Chris Hernandez,53,Male,289.13,New York
+1165,Emily Williams,29,Female,250.91,Los Angeles
+1166,Robert Williams,58,Female,444.8,San Diego
+1167,Katie Johnson,36,Female,274.53,San Antonio
+1168,John Jones,29,Female,231.7,San Diego
+1169,John Jones,26,Male,214.15,New York
+1170,Katie Martinez,24,Male,294.77,Houston
+1171,Katie Miller,45,Female,405.91,Chicago
+1172,Laura Jones,31,Female,278.43,San Diego
+1173,Laura Miller,48,Female,337.59,New York
+1174,Jane Brown,69,Male,374.17,Philadelphia
+1175,Chris Brown,36,Female,269.68,Houston
+1176,Laura Jones,64,Female,224.87,New York
+1177,Alex Hernandez,33,Female,440.8,New York
+1178,Alex Brown,22,Male,220.4,Chicago
+1179,Robert Jones,52,Male,241.73,San Antonio
+1180,John Davis,29,Male,495.36,San Diego
+1181,Alex Davis,42,Male,20.11,Philadelphia
+1182,Laura Miller,69,Male,109.03,Phoenix
+1183,Alex Davis,38,Male,204.3,San Diego
+1184,Emily Johnson,53,Male,467.64,Phoenix
+1185,Linda Garcia,40,Male,53.61,New York
+1186,Michael Jones,33,Female,24.55,Los Angeles
+1187,John Martinez,56,Female,45.29,Philadelphia
+1188,Jane Smith,62,Male,62.5,Houston
+1189,Jane Davis,59,Male,38.05,Los Angeles
+1190,Linda Garcia,56,Female,250.3,Los Angeles
+1191,Emily Brown,31,Male,298.76,San Diego
+1192,Jane Miller,48,Male,150.41,Philadelphia
+1193,Robert Smith,22,Male,211.18,San Antonio
+1194,Laura Johnson,52,Female,64.02,New York
+1195,Laura Johnson,40,Female,181.46,New York
+1196,Jane Johnson,46,Female,270.81,New York
+1197,John Williams,60,Female,371.49,New York
+1198,Linda Garcia,28,Female,21.61,San Diego
+1199,Michael Garcia,35,Male,244.31,Phoenix
+1200,Jane Garcia,64,Female,162.56,New York
+1201,Chris Johnson,29,Male,429.35,Phoenix
+1202,John Miller,26,Male,363.47,Phoenix
+1203,Linda Johnson,27,Female,302.77,San Antonio
+1204,Linda Smith,61,Female,153.09,New York
+1205,Robert Brown,34,Male,456.96,Chicago
+1206,Alex Brown,55,Male,41.65,Houston
+1207,Laura Williams,24,Male,72.54,Los Angeles
+1208,Alex Martinez,63,Female,207.98,Phoenix
+1209,Michael Jones,30,Female,79.73,Philadelphia
+1210,Emily Jones,57,Female,479.08,Philadelphia
+1211,Linda Miller,59,Female,403.03,Houston
+1212,Alex Miller,26,Female,144.31,Philadelphia
+1213,Robert Brown,67,Male,302.51,Chicago
+1214,Laura Davis,44,Female,491.52,Philadelphia
+1215,Chris Smith,19,Male,444.42,Los Angeles
+1216,Linda Garcia,22,Male,308.38,Los Angeles
+1217,Jane Garcia,46,Male,453.79,Phoenix
+1218,Michael Garcia,54,Female,494.81,New York
+1219,Michael Garcia,55,Female,376.81,San Antonio
+1220,Linda Brown,36,Female,51.19,Chicago
+1221,Chris Martinez,25,Male,212.76,Phoenix
+1222,Alex Johnson,65,Male,422.16,Chicago
+1223,Katie Martinez,62,Male,130.67,New York
+1224,Katie Brown,18,Male,418.71,San Diego
+1225,Chris Brown,39,Male,77.76,Philadelphia
+1226,Jane Davis,69,Male,42.53,Philadelphia
+1227,Michael Davis,34,Female,204.36,San Antonio
+1228,Emily Garcia,24,Female,37.63,New York
+1229,Alex Johnson,42,Female,479.49,Phoenix
+1230,Linda Johnson,62,Female,416.58,San Antonio
+1231,Robert Davis,21,Male,404.37,New York
+1232,Katie Martinez,53,Male,322.29,Houston
+1233,Katie Williams,23,Female,123.84,Los Angeles
+1234,Alex Smith,48,Male,268.76,San Antonio
+1235,Chris Jones,36,Female,306.69,San Antonio
+1236,John Garcia,61,Female,272.02,Phoenix
+1237,Emily Williams,56,Female,144.91,Chicago
+1238,Emily Brown,44,Male,267.32,Houston
+1239,Michael Garcia,27,Female,255.77,Phoenix
+1240,Laura Garcia,43,Female,498.24,New York
+1241,Jane Miller,36,Female,450.77,New York
+1242,Laura Brown,56,Male,242.42,New York
+1243,Alex Johnson,20,Male,319.01,San Diego
+1244,Laura Johnson,62,Female,378.98,New York
+1245,Laura Miller,30,Male,36.74,Chicago
+1246,Katie Smith,67,Male,449.56,Houston
+1247,Linda Brown,45,Male,432.86,Philadelphia
+1248,Chris Williams,37,Male,239.57,Los Angeles
+1249,Michael Garcia,45,Male,207.76,Chicago
+1250,Emily Martinez,25,Male,151.02,Chicago
+1251,Emily Hernandez,58,Male,248.8,San Diego
+1252,Robert Brown,56,Male,41.3,Philadelphia
+1253,Emily Johnson,18,Male,429.05,Philadelphia
+1254,Laura Williams,20,Male,37.0,Los Angeles
+1255,Linda Hernandez,30,Female,177.94,Los Angeles
+1256,Laura Johnson,45,Female,467.16,Philadelphia
+1257,Linda Davis,66,Male,372.9,New York
+1258,Alex Martinez,42,Female,155.07,Chicago
+1259,Michael Martinez,50,Female,141.27,Phoenix
+1260,Linda Hernandez,55,Male,22.44,Los Angeles
+1261,Katie Miller,23,Male,353.94,San Diego
+1262,Emily Davis,61,Male,43.42,San Diego
+1263,Robert Davis,62,Female,275.65,Los Angeles
+1264,Emily Martinez,49,Female,481.82,Philadelphia
+1265,Michael Brown,62,Male,72.55,Houston
+1266,Linda Miller,64,Male,449.35,Phoenix
+1267,Laura Hernandez,38,Male,495.91,Phoenix
+1268,Robert Davis,33,Female,49.53,Los Angeles
+1269,Alex Jones,38,Female,443.8,New York
+1270,Robert Jones,28,Female,267.72,Houston
+1271,Robert Hernandez,54,Female,455.13,Phoenix
+1272,Robert Smith,53,Male,294.23,Los Angeles
+1273,Alex Johnson,52,Male,337.81,San Diego
+1274,Jane Miller,36,Male,281.01,Phoenix
+1275,John Garcia,37,Male,434.96,San Antonio
+1276,Michael Jones,35,Female,372.28,Houston
+1277,John Williams,64,Female,270.2,Houston
+1278,Emily Brown,58,Male,436.72,San Antonio
+1279,Linda Garcia,66,Male,137.74,Chicago
+1280,John Johnson,31,Female,95.52,San Diego
+1281,Jane Johnson,32,Male,96.99,San Antonio
+1282,Linda Hernandez,48,Female,180.32,Philadelphia
+1283,Katie Garcia,18,Male,134.57,Philadelphia
+1284,Michael Jones,20,Male,466.44,Los Angeles
+1285,Emily Jones,33,Male,70.8,Houston
+1286,Chris Jones,40,Male,355.52,Chicago
+1287,Emily Martinez,28,Male,110.83,Chicago
+1288,Chris Martinez,29,Male,443.19,Phoenix
+1289,John Brown,27,Male,481.43,Phoenix
+1290,John Williams,49,Female,243.43,San Antonio
+1291,Michael Brown,33,Female,441.95,Chicago
+1292,Jane Brown,25,Female,22.47,San Antonio
+1293,Robert Davis,55,Female,413.57,San Diego
+1294,Alex Miller,29,Female,129.74,San Antonio
+1295,John Brown,41,Male,456.18,Phoenix
+1296,Alex Hernandez,45,Male,20.54,Houston
+1297,Katie Jones,25,Female,286.97,San Antonio
+1298,John Miller,45,Male,383.19,New York
+1299,Katie Garcia,53,Female,144.17,Houston
+1300,Jane Brown,43,Female,112.7,Chicago
+1301,Robert Hernandez,25,Male,60.37,Chicago
+1302,Katie Miller,67,Male,176.69,San Antonio
+1303,Katie Hernandez,45,Male,288.73,Houston
+1304,Katie Williams,45,Female,75.61,Phoenix
+1305,Katie Davis,54,Male,200.81,Phoenix
+1306,Chris Williams,58,Female,24.35,Philadelphia
+1307,Chris Hernandez,53,Female,412.97,Chicago
+1308,Michael Miller,44,Female,81.66,Los Angeles
+1309,Robert Johnson,34,Male,156.0,Philadelphia
+1310,Chris Smith,26,Male,28.85,Phoenix
+1311,Alex Martinez,50,Female,227.48,Houston
+1312,Linda Jones,37,Male,423.26,San Diego
+1313,Emily Johnson,30,Male,208.23,Phoenix
+1314,Robert Davis,45,Male,106.16,Houston
+1315,Emily Jones,65,Female,381.78,Philadelphia
+1316,Alex Garcia,46,Female,398.63,Chicago
+1317,Laura Martinez,30,Male,103.4,Phoenix
+1318,Katie Johnson,63,Female,390.01,San Antonio
+1319,Katie Brown,52,Male,474.7,Houston
+1320,Katie Miller,23,Male,99.86,Chicago
+1321,John Hernandez,35,Male,390.07,San Diego
+1322,Robert Miller,68,Male,360.11,San Diego
+1323,Laura Garcia,22,Female,247.32,Los Angeles
+1324,Emily Miller,64,Female,47.8,Houston
+1325,Robert Miller,42,Female,55.85,Philadelphia
+1326,Jane Johnson,19,Male,429.16,Los Angeles
+1327,Jane Williams,27,Male,495.27,Los Angeles
+1328,Jane Johnson,47,Male,344.51,New York
+1329,Katie Hernandez,67,Female,234.06,Phoenix
+1330,Jane Garcia,62,Male,330.84,Houston
+1331,Jane Davis,22,Female,305.31,Los Angeles
+1332,Linda Williams,50,Female,204.13,New York
+1333,John Williams,18,Female,51.5,Philadelphia
+1334,Robert Martinez,35,Female,414.33,Chicago
+1335,Michael Johnson,49,Female,198.48,San Antonio
+1336,Robert Martinez,64,Female,413.02,San Antonio
+1337,Michael Smith,66,Male,141.2,Houston
+1338,Robert Martinez,28,Male,20.49,Los Angeles
+1339,Alex Jones,38,Female,96.29,San Antonio
+1340,Linda Garcia,43,Female,244.9,Phoenix
+1341,Katie Davis,42,Male,473.27,San Antonio
+1342,Laura Johnson,39,Female,69.05,San Antonio
+1343,Robert Hernandez,44,Female,430.02,San Antonio
+1344,Linda Miller,66,Male,272.97,San Diego
+1345,Emily Davis,30,Female,416.44,New York
+1346,Alex Martinez,50,Female,163.22,Los Angeles
+1347,Linda Hernandez,51,Female,423.17,Phoenix
+1348,Katie Miller,58,Male,390.95,Los Angeles
+1349,Laura Brown,52,Male,130.43,San Diego
+1350,John Brown,18,Male,83.04,Houston
+1351,Linda Johnson,38,Female,436.67,Houston
+1352,Alex Miller,65,Female,482.35,Houston
+1353,John Williams,23,Male,35.03,Philadelphia
+1354,John Williams,45,Female,371.01,San Antonio
+1355,Laura Davis,34,Female,456.57,Philadelphia
+1356,Laura Jones,22,Female,431.53,New York
+1357,Katie Williams,48,Female,482.97,Houston
+1358,Chris Martinez,22,Female,384.85,San Diego
+1359,Chris Smith,55,Male,232.3,Phoenix
+1360,Robert Johnson,20,Female,169.74,Los Angeles
+1361,Katie Garcia,40,Male,173.96,San Antonio
+1362,Chris Davis,54,Female,367.72,Chicago
+1363,Laura Jones,54,Male,378.0,Phoenix
+1364,Katie Smith,27,Female,116.17,San Antonio
+1365,Michael Smith,27,Male,436.7,Philadelphia
+1366,John Miller,36,Female,363.16,Philadelphia
+1367,Michael Johnson,34,Male,290.12,Phoenix
+1368,Alex Davis,38,Female,246.34,Philadelphia
+1369,Jane Jones,31,Male,280.75,Houston
+1370,Jane Johnson,26,Female,96.44,New York
+1371,Chris Smith,63,Male,117.78,Los Angeles
+1372,Emily Martinez,18,Male,63.76,New York
+1373,Jane Martinez,68,Female,93.76,San Antonio
+1374,Michael Miller,62,Female,237.77,Los Angeles
+1375,Linda Jones,30,Male,274.57,San Diego
+1376,John Smith,21,Female,28.57,Los Angeles
+1377,Linda Davis,18,Male,402.46,New York
+1378,Laura Davis,66,Male,161.2,Phoenix
+1379,Jane Martinez,57,Male,457.68,Los Angeles
+1380,Jane Jones,49,Female,484.41,San Diego
+1381,Robert Hernandez,51,Male,109.02,San Diego
+1382,Alex Miller,45,Male,241.81,San Diego
+1383,Linda Jones,48,Female,20.59,New York
+1384,Robert Hernandez,25,Female,307.2,Los Angeles
+1385,Emily Smith,56,Female,311.51,Chicago
+1386,Emily Jones,43,Female,138.82,Phoenix
+1387,Linda Davis,51,Male,288.04,Houston
+1388,Linda Brown,20,Male,128.26,Los Angeles
+1389,Chris Williams,67,Male,97.2,San Diego
+1390,Jane Miller,29,Male,332.73,Chicago
+1391,Katie Martinez,18,Female,176.44,Houston
+1392,Laura Smith,61,Male,303.33,Houston
+1393,Katie Miller,22,Male,227.96,San Antonio
+1394,Robert Williams,47,Female,492.49,Los Angeles
+1395,John Williams,47,Male,91.8,New York
+1396,Alex Williams,34,Male,243.01,Los Angeles
+1397,Alex Williams,65,Male,346.62,Chicago
+1398,Laura Jones,64,Male,209.86,Houston
+1399,John Brown,40,Male,487.86,Los Angeles
+1400,Michael Brown,32,Male,366.51,New York
+1401,Robert Miller,54,Female,335.35,San Antonio
+1402,Laura Williams,38,Female,383.39,Los Angeles
+1403,Robert Miller,31,Male,477.27,Phoenix
+1404,Linda Smith,19,Male,455.75,San Antonio
+1405,Emily Hernandez,28,Female,367.66,New York
+1406,Katie Williams,68,Male,379.6,Chicago
+1407,Chris Martinez,56,Male,90.04,Houston
+1408,Linda Martinez,55,Male,69.34,Los Angeles
+1409,Emily Johnson,51,Female,294.03,New York
+1410,Chris Garcia,55,Male,28.82,San Antonio
+1411,Linda Davis,67,Female,251.53,Phoenix
+1412,Robert Martinez,51,Male,120.97,New York
+1413,Emily Davis,35,Female,186.09,Philadelphia
+1414,Robert Jones,47,Female,392.39,San Diego
+1415,Jane Smith,32,Male,471.79,Phoenix
+1416,Jane Brown,44,Female,54.76,San Antonio
+1417,Chris Johnson,68,Male,276.44,Chicago
+1418,Chris Hernandez,51,Female,443.62,Houston
+1419,Linda Davis,69,Male,59.6,San Antonio
+1420,Chris Smith,55,Male,415.77,San Diego
+1421,Michael Davis,50,Female,191.74,Chicago
+1422,Jane Garcia,41,Male,174.61,Los Angeles
+1423,Michael Hernandez,32,Male,489.18,New York
+1424,Laura Martinez,47,Female,116.41,Philadelphia
+1425,Michael Johnson,59,Male,352.73,Phoenix
+1426,Emily Miller,68,Male,414.29,Phoenix
+1427,Emily Martinez,34,Female,39.77,New York
+1428,Alex Johnson,22,Female,341.79,Philadelphia
+1429,Katie Martinez,46,Male,476.74,New York
+1430,Jane Garcia,21,Male,79.63,Los Angeles
+1431,Alex Johnson,27,Female,450.19,San Diego
+1432,Chris Miller,34,Female,305.49,Chicago
+1433,Robert Davis,27,Male,315.97,San Antonio
+1434,Alex Miller,34,Female,314.21,Phoenix
+1435,Robert Davis,37,Male,163.44,Los Angeles
+1436,Alex Smith,41,Male,468.9,Chicago
+1437,Michael Garcia,22,Male,474.73,Los Angeles
+1438,Robert Miller,51,Male,320.15,Philadelphia
+1439,Michael Smith,23,Male,396.04,Phoenix
+1440,Alex Johnson,19,Female,313.88,San Antonio
+1441,Alex Garcia,30,Female,252.51,New York
+1442,Robert Davis,60,Female,337.19,New York
+1443,Jane Johnson,60,Female,285.44,Chicago
+1444,Linda Jones,65,Male,306.79,San Antonio
+1445,Emily Jones,28,Male,396.24,San Diego
+1446,Laura Garcia,68,Male,250.83,Houston
+1447,Michael Davis,64,Male,39.56,Philadelphia
+1448,Chris Smith,40,Female,98.72,Chicago
+1449,Laura Martinez,33,Male,230.53,Houston
+1450,John Davis,48,Male,367.92,Los Angeles
+1451,Emily Garcia,28,Female,304.77,Philadelphia
+1452,Michael Miller,33,Female,332.14,Los Angeles
+1453,Katie Hernandez,25,Female,250.05,San Diego
+1454,Robert Martinez,21,Female,315.56,San Antonio
+1455,Linda Jones,57,Male,177.93,Phoenix
+1456,Alex Jones,21,Male,245.69,Philadelphia
+1457,Jane Johnson,42,Female,377.25,Houston
+1458,Alex Martinez,20,Male,438.48,San Diego
+1459,Alex Martinez,49,Male,228.15,Phoenix
+1460,Chris Brown,20,Male,40.96,New York
+1461,Chris Hernandez,44,Female,97.6,Houston
+1462,John Davis,46,Male,30.01,Chicago
+1463,Katie Johnson,49,Female,333.57,New York
+1464,Jane Smith,67,Male,179.51,San Diego
+1465,Katie Jones,68,Male,280.39,New York
+1466,Jane Miller,36,Male,256.77,Chicago
+1467,Robert Martinez,38,Female,59.13,Philadelphia
+1468,Laura Brown,22,Male,213.57,New York
+1469,Jane Davis,35,Female,125.87,San Antonio
+1470,Jane Smith,45,Female,220.83,Houston
+1471,Katie Martinez,59,Female,117.72,Phoenix
+1472,Jane Smith,39,Male,423.42,New York
+1473,Michael Johnson,38,Male,103.61,Houston
+1474,Alex Martinez,23,Male,481.17,Los Angeles
+1475,John Smith,18,Male,219.64,Houston
+1476,Chris Brown,22,Female,426.2,Phoenix
+1477,Linda Davis,58,Female,321.81,Houston
+1478,Jane Miller,29,Female,372.97,Chicago
+1479,Alex Garcia,43,Male,388.51,San Diego
+1480,Katie Williams,63,Female,262.33,Phoenix
+1481,Jane Miller,51,Male,280.78,San Diego
+1482,John Brown,66,Female,266.72,Philadelphia
+1483,Linda Jones,31,Male,302.27,San Diego
+1484,Michael Smith,43,Male,34.11,Los Angeles
+1485,Chris Smith,62,Female,209.85,Chicago
+1486,Emily Miller,44,Female,310.97,Philadelphia
+1487,Alex Garcia,26,Female,306.91,Houston
+1488,Emily Miller,43,Female,400.62,Phoenix
+1489,Robert Williams,64,Male,334.4,Los Angeles
+1490,Katie Hernandez,39,Female,496.22,Chicago
+1491,Jane Smith,64,Female,156.25,Philadelphia
+1492,Emily Brown,47,Female,192.39,Philadelphia
+1493,Katie Jones,60,Male,204.25,Los Angeles
+1494,Emily Davis,65,Male,243.59,San Antonio
+1495,John Garcia,34,Female,421.28,Houston
+1496,Alex Brown,43,Male,133.18,Los Angeles
+1497,Robert Smith,53,Female,392.48,Philadelphia
+1498,John Brown,18,Male,214.55,New York
+1499,Linda Jones,25,Male,308.89,Chicago
+1500,Katie Brown,66,Male,323.62,Los Angeles
