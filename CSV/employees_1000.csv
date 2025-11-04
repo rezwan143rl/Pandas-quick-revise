@@ -1,0 +1,1001 @@
+First Name,Gender,Start Date,Last Login Time,Salary,Bonus %,Senior Management,Team
+Dana,Male,3/28/2006,04:04 AM,79632,14.215,True,Distribution
+Paula,Male,9/14/2009,04:57 PM,127571,11.788,False,Business Development
+Ryan,,9/10/1989,11:51 AM,106903,12.173,False,Business Development
+Alexander,Female,4/9/2006,08:16 PM,57682,2.218,False,Marketing
+Anthony,Female,9/6/1996,09:13 AM,86722,4.038,False,Marketing
+Angela,Male,12/11/2024,06:50 PM,110505,19.206,True,Sales
+Edward,Male,5/30/2000,10:21 AM,63550,11.256,True,Finance
+Rachel,Female,12/14/2017,10:39 PM,79016,4.928,True,Product
+Alexis,Female,4/18/1992,09:28 PM,119292,4.373,True,Marketing
+Sandra,Female,10/31/1990,02:40 PM,139493,16.953,False,Product
+Karen,Female,8/13/1991,07:44 AM,73013,14.424,True,Sales
+Vanessa,Male,6/30/2005,08:03 PM,140134,3.017,True,
+Angela,Male,12/16/2000,03:11 PM,123143,18.884,True,Distribution
+Holly,Male,3/13/2015,05:07 AM,114969,1.639,True,Client Services
+Scott,Female,3/7/2017,01:50 AM,69874,13.715,False,
+Travis,,1/24/2016,12:20 AM,48617,1.469,True,Sales
+Aaron,Female,10/17/2008,11:10 AM,43901,4.94,True,Distribution
+Jill,Female,10/22/1986,04:05 AM,147768,5.867,False,
+Kelly,Female,5/29/1996,08:10 AM,119745,1.812,False,Business Development
+Scott,Male,1/30/2019,07:35 AM,130044,8.21,True,
+Julia,Female,8/14/2010,06:37 AM,115677,16.923,True,Distribution
+Angela,Female,9/3/1995,04:47 AM,124501,16.647,False,Sales
+Michele,Male,4/3/2013,03:37 AM,134474,17.273,False,Distribution
+Adam,Female,10/30/2006,02:57 PM,146715,18.068,False,Client Services
+Franklin,Male,10/31/2012,09:11 PM,127870,3.819,True,Sales
+Angel,Female,10/29/1995,04:57 AM,113358,3.07,True,Marketing
+Amy,Female,7/17/2003,07:17 AM,133417,13.576,True,
+Timothy,Male,4/6/1986,06:08 AM,93874,18.269,False,Sales
+Joseph,Male,9/23/2018,03:01 PM,124351,19.599,True,
+Robert,Male,5/7/1990,09:39 PM,129311,3.663,False,Product
+Stephen,Female,4/5/1986,10:26 AM,74445,7.275,False,Product
+Brenda,Male,12/31/1994,06:24 PM,148019,11.398,False,Marketing
+Matthew,Male,10/4/2024,06:03 PM,136582,8.12,True,Sales
+David,Male,9/29/2009,09:46 AM,47539,2.845,True,Product
+Keith,Male,4/9/2022,09:15 PM,78786,5.868,False,Business Development
+Thomas,Female,7/26/2008,05:54 AM,68164,11.147,False,
+Christian,Female,3/28/2023,02:37 AM,98318,2.781,False,Client Services
+Jill,Male,9/15/2022,03:58 PM,47829,19.841,True,Sales
+Lauren,Female,12/10/2003,10:06 AM,113642,4.846,False,Marketing
+Jason,Male,4/3/2002,05:46 PM,60251,16.903,True,Distribution
+Charles,Female,4/7/2022,09:53 AM,77355,1.279,False,Marketing
+Bradley,Male,4/28/1990,06:12 PM,136078,14.184,False,Product
+Benjamin,Female,11/22/2019,11:04 PM,58193,3.997,True,Product
+Derek,Male,4/17/2023,08:00 AM,67823,4.421,False,Sales
+Juan,Male,2/4/1998,08:00 PM,105836,15.157,False,Finance
+Alice,Female,7/23/1992,10:24 AM,73942,6.865,True,Product
+Heidi,Female,6/20/2006,09:34 PM,94599,6.438,True,Marketing
+Mark,,7/15/2007,08:57 AM,113778,10.875,True,Finance
+Kara,Female,3/24/2022,11:59 AM,105393,14.679,True,Marketing
+Noah,Male,4/8/2020,01:48 PM,108584,13.923,False,Marketing
+Mark,Female,9/12/2019,12:23 AM,148753,18.25,False,
+Darren,Male,6/21/1992,07:17 PM,108774,6.658,True,
+Bethany,Male,7/31/1996,05:26 PM,104755,7.719,True,Product
+Jeffrey,Female,8/21/2001,09:09 AM,129312,6.49,True,Client Services
+Philip,Male,2/4/1994,10:57 PM,131469,5.975,True,Product
+Juan,Female,7/29/2015,07:22 AM,149250,9.946,True,
+Alicia,Male,1/1/2017,08:38 PM,40229,5.794,True,Finance
+Ashley,Female,2/8/1998,05:15 PM,144250,3.712,False,Client Services
+Lori,Female,1/29/2025,10:28 PM,102535,2.596,False,Business Development
+William,Male,1/22/2011,11:08 PM,94832,18.55,False,Business Development
+Kathryn,Female,6/16/2012,02:59 PM,144834,5.169,False,
+James,Male,11/20/1992,05:06 PM,79633,4.781,False,Sales
+Edward,Female,7/24/2016,09:29 PM,47552,1.51,False,Distribution
+Elizabeth,Male,5/3/2006,11:54 AM,118379,11.063,True,Business Development
+Jerome,Male,5/21/2016,06:33 PM,109821,4.983,False,Finance
+Brandi,Female,1/20/2014,07:06 PM,107126,18.951,True,Marketing
+Daniel,Female,5/17/2019,09:30 PM,79734,1.643,False,Product
+Sean,,1/4/2000,04:49 AM,121749,18.786,False,Marketing
+Melanie,Female,6/11/1985,05:02 AM,44726,2.301,True,Finance
+Jordan,Female,5/10/2023,07:49 AM,100093,9.578,False,Marketing
+Edwin,Female,9/12/1985,04:00 AM,122991,16.271,True,Distribution
+Linda,,12/5/1991,11:55 PM,127520,18.904,True,Sales
+Brittany,Male,5/8/2000,05:30 AM,122371,2.74,False,Product
+Lisa,,3/6/2001,06:27 AM,144222,2.075,False,Sales
+Kayla,Female,6/14/2013,03:36 PM,66888,10.498,True,Marketing
+Robert,Male,2/26/2021,04:14 AM,63300,7.201,False,Distribution
+Danielle,Male,10/21/2004,02:38 PM,80442,5.723,False,Sales
+Rodney,Female,1/15/1989,08:25 PM,143871,15.189,True,
+Tonya,Female,3/6/2025,04:21 AM,84036,1.515,True,
+Walter,Female,8/18/2006,10:19 AM,46786,2.784,True,Product
+William,Male,8/16/2011,09:16 PM,82950,13.228,True,Business Development
+Olivia,Female,1/14/2001,07:28 PM,79947,1.846,True,Client Services
+Anthony,,6/3/1994,06:52 PM,139607,7.63,False,
+Daniel,Male,10/13/2017,04:36 PM,131996,17.314,True,
+Amber,Female,7/14/2004,08:02 PM,54134,19.057,False,Finance
+Tina,Female,7/20/1992,04:35 PM,126788,11.414,False,Client Services
+Amanda,Male,6/9/2022,12:21 PM,103665,3.817,True,Client Services
+Lauren,Female,6/20/2021,09:06 AM,82960,5.468,True,Sales
+Ray,,8/17/1996,02:00 AM,58767,3.469,True,Finance
+Jacob,Female,1/25/1998,03:29 PM,132870,5.656,True,Marketing
+Steven,Female,10/26/2002,09:32 AM,59161,4.237,False,Business Development
+Jody,Male,3/23/2009,02:00 PM,80807,11.996,False,Distribution
+Sara,Male,3/7/1986,05:18 AM,104018,16.455,True,Product
+Brent,Male,3/19/2015,02:13 AM,92192,9.251,True,Marketing
+Nicholas,Female,5/18/2022,11:33 AM,64623,17.372,False,Sales
+Aaron,Male,2/7/1992,12:07 AM,83556,6.594,False,Business Development
+Dan,,7/31/2023,10:45 PM,142794,8.085,False,
+Samantha,Female,12/26/2011,07:09 AM,93328,4.194,False,Business Development
+Rebecca,Male,6/14/2014,09:19 AM,147881,14.656,False,Business Development
+Hannah,Male,8/14/2016,08:44 PM,69005,7.743,True,Business Development
+Judy,Female,7/23/1998,03:29 PM,77674,6.967,False,Finance
+Duane,Female,10/31/2000,09:47 PM,94330,10.81,True,
+Brittany,Male,5/24/1989,04:27 AM,120517,10.125,False,
+Samantha,Male,12/28/1987,09:48 AM,145066,4.214,False,Marketing
+Michael,Female,11/10/2014,07:40 PM,70799,18.917,True,Client Services
+Jesse,Female,4/24/1990,02:33 AM,135130,1.403,False,Distribution
+Susan,Male,8/26/2001,03:59 PM,131196,13.036,True,Distribution
+Renee,Female,3/14/1997,09:36 PM,132016,19.409,False,Marketing
+Rachel,Female,2/17/2020,10:59 AM,91521,5.368,False,Marketing
+Kimberly,Female,10/4/1989,10:47 AM,97854,2.917,False,Business Development
+Denise,,7/16/2006,05:13 AM,122250,5.079,False,Client Services
+Anthony,Female,12/9/1989,02:38 AM,89042,11.07,False,Sales
+Marcia,Female,6/25/1985,08:18 PM,77743,8.133,False,Marketing
+Suzanne,Male,12/2/2014,03:51 AM,130180,16.812,False,Client Services
+Stephanie,Female,5/8/1987,03:41 PM,132425,3.991,False,Product
+April,Male,3/24/1992,01:52 AM,73683,13.217,False,Product
+Robert,Male,5/15/2021,03:08 PM,88517,19.099,True,Client Services
+Melissa,Female,10/15/2009,03:41 AM,148127,18.055,False,Sales
+Christopher,Male,3/31/2022,10:12 AM,72030,14.129,True,Client Services
+Bryan,Female,9/12/2021,10:58 AM,55375,9.13,False,Sales
+Crystal,Female,7/20/2019,10:43 AM,70399,19.861,True,
+Brandon,Female,5/28/2004,06:20 PM,84099,10.988,False,Business Development
+Gregory,Female,6/6/1989,07:12 PM,62042,10.503,True,Finance
+Tyler,Male,6/7/1991,04:04 PM,104847,8.892,True,Marketing
+Melanie,,8/2/1995,05:12 AM,103347,6.669,False,Client Services
+Elizabeth,Male,12/2/1999,09:07 PM,130345,8.706,False,Sales
+Rebecca,,6/6/1998,05:38 AM,66551,1.957,True,Client Services
+Kimberly,Male,5/28/1987,12:47 AM,78777,16.263,True,Finance
+Michael,Male,9/22/2014,08:26 AM,130726,18.315,False,Finance
+Joshua,Male,11/18/2007,10:48 PM,63354,13.683,True,Product
+John,Male,10/14/2006,08:14 AM,133290,16.833,False,Marketing
+Gina,Male,8/29/1991,03:36 PM,57243,15.687,False,Finance
+Aaron,Female,3/4/2025,01:24 AM,96040,11.495,True,Distribution
+Rachel,Female,4/11/1986,12:20 PM,134630,1.78,False,
+Angelica,Female,7/30/2022,12:15 AM,70598,7.676,True,
+Chelsea,Female,7/29/2013,08:55 AM,86216,1.784,True,Product
+Mary,Male,5/8/2023,09:22 PM,132020,12.916,False,Distribution
+Jennifer,Female,3/24/2020,06:08 PM,108457,11.275,False,Marketing
+David,Male,4/6/1994,04:06 AM,134152,14.362,True,Product
+Eugene,Male,2/18/1994,06:36 PM,140608,3.786,False,Finance
+Jennifer,Male,6/25/2002,07:12 PM,60588,2.906,False,Client Services
+Kenneth,Male,11/22/1985,10:49 AM,91017,19.045,True,Business Development
+Peter,Male,8/6/2005,05:42 AM,60110,2.1,False,Distribution
+Corey,Male,11/10/1995,03:04 AM,68746,10.569,False,Business Development
+Melissa,Male,5/29/2024,10:58 PM,134290,16.826,True,
+Brandon,Female,10/4/1988,04:40 PM,147375,8.973,False,
+Jon,Male,9/19/2017,11:41 PM,120880,2.075,True,Product
+Seth,Female,11/6/2022,09:46 PM,80376,14.179,True,Sales
+Jason,Male,2/13/2000,03:19 AM,74649,10.353,False,Business Development
+Ricardo,Female,12/15/2001,03:55 PM,114713,9.572,False,Client Services
+Natalie,Female,2/22/2016,11:56 AM,66936,13.708,True,
+Jonathan,Male,7/6/1999,09:20 PM,61525,5.091,False,Finance
+Joshua,Female,1/28/1997,05:18 AM,45211,9.251,True,Finance
+Meredith,Female,5/16/2008,10:01 PM,49048,10.979,False,Business Development
+Kelsey,Female,9/25/1997,07:44 PM,102848,2.3,False,Marketing
+Stephen,,3/3/1991,04:48 AM,119447,15.359,False,Sales
+Natalie,Female,11/2/2017,09:27 AM,116010,11.328,True,Sales
+Zachary,Male,2/23/1986,01:35 AM,115593,15.062,False,Distribution
+Michael,Female,9/27/2018,06:26 AM,127499,4.287,True,Sales
+Rachel,,9/13/2007,02:20 PM,82918,18.85,False,Business Development
+Michele,Male,10/5/2022,08:51 PM,83565,1.001,True,
+Rachel,Female,8/16/2003,09:04 PM,95386,16.83,True,Client Services
+Gregory,Male,1/27/1999,03:15 PM,55035,2.169,False,Client Services
+Lindsay,Female,8/22/2020,12:26 AM,127097,13.202,False,Marketing
+Diane,Male,11/11/2001,05:14 AM,141796,13.528,False,Marketing
+Jon,Female,11/20/2016,04:31 PM,106889,1.796,False,
+Emily,Male,10/26/1998,07:27 AM,104546,18.266,False,Sales
+Jamie,Male,9/5/2021,12:09 AM,84601,11.855,True,Product
+Marvin,Female,8/31/2011,10:50 PM,78137,17.048,True,Sales
+Colleen,Female,2/23/2010,12:16 AM,56119,6.349,True,Client Services
+Benjamin,Female,4/11/1997,05:21 AM,80789,11.954,True,Product
+Kelly,Female,10/23/2016,08:40 PM,112121,4.068,False,Distribution
+Benjamin,Male,9/16/2012,04:01 AM,47840,11.877,True,Marketing
+Michael,,11/28/2016,02:15 PM,86300,2.304,False,Client Services
+Shawn,Female,5/22/1998,07:12 AM,84391,3.094,True,Client Services
+Daniel,Female,2/8/2019,01:42 PM,100794,5.225,True,Marketing
+Jody,Male,6/4/1990,07:21 AM,142491,9.037,True,Business Development
+Tracey,Male,8/24/1987,02:36 AM,140470,3.774,True,Client Services
+Tricia,Male,2/11/2010,12:15 AM,112728,10.034,False,Sales
+Anthony,Female,9/11/2022,06:35 AM,40093,17.389,True,Finance
+Natasha,Male,1/13/2022,01:27 AM,60804,3.166,True,Marketing
+Stacy,,2/20/1996,05:40 PM,110930,17.957,False,Business Development
+Brittany,Female,9/26/2021,09:39 AM,92756,11.021,True,Finance
+Evan,Male,7/31/2005,10:14 PM,53613,11.592,False,Finance
+Jennifer,Female,9/7/2007,01:43 AM,141173,2.282,False,Business Development
+Veronica,Female,2/16/1987,11:40 PM,101905,2.807,False,Product
+Robert,Female,12/15/2008,02:21 AM,123941,10.335,True,Client Services
+Brian,Male,12/22/2017,05:53 AM,45315,10.775,True,Finance
+Candice,Male,7/30/2007,05:59 AM,98218,5.371,False,Product
+Christina,Male,11/27/1991,01:35 PM,108337,1.965,False,
+Kimberly,Male,9/16/2000,09:40 PM,70386,4.264,False,Sales
+Sara,Female,3/7/2007,07:57 AM,110085,9.688,False,Finance
+Kelsey,,6/19/2024,07:16 PM,132621,13.945,True,Business Development
+Elizabeth,Male,3/27/2008,03:27 PM,124387,12.155,False,Business Development
+Lisa,Female,5/5/2017,02:22 AM,67052,5.869,True,Client Services
+Lauren,Female,10/4/1995,06:08 PM,143535,3.197,False,Distribution
+Brianna,Female,11/7/1998,03:39 AM,49573,1.613,True,Finance
+James,Male,6/14/1985,10:17 AM,137454,9.487,True,Business Development
+Karina,Female,7/3/1998,07:50 AM,68902,18.735,True,Distribution
+Maurice,Male,12/17/2005,07:29 AM,116064,3.53,False,Distribution
+Michael,Male,5/22/2020,12:07 AM,72078,11.87,True,Product
+Madeline,Female,1/30/2020,03:41 PM,64452,15.094,True,Distribution
+Keith,Male,9/26/1990,12:50 PM,103095,3.564,True,Marketing
+Brett,Male,4/13/1998,08:03 PM,131748,6.919,False,Distribution
+Samuel,Female,1/31/1997,12:15 AM,76227,7.142,True,Product
+Laura,Female,5/28/1995,08:40 PM,89247,17.263,True,Client Services
+Jonathan,Female,3/12/2005,10:52 PM,101947,6.94,False,Marketing
+David,Male,10/31/1991,03:35 AM,135241,11.157,False,Sales
+Vicki,Male,11/12/2010,05:30 PM,100626,18.578,True,Marketing
+Samantha,Female,12/2/2002,12:42 PM,140454,8.174,True,Finance
+Mitchell,,8/26/1991,01:47 AM,40330,18.76,True,
+Mark,Female,3/21/1991,06:10 PM,97750,4.141,True,Marketing
+Jeffrey,Female,9/11/2003,08:48 AM,91291,14.418,True,
+Mary,Female,12/16/2013,09:05 PM,142853,6.187,False,Marketing
+Stephanie,Female,9/7/2001,05:32 AM,61944,15.225,False,Business Development
+Andrea,Female,3/30/2023,06:10 AM,63377,2.805,False,Client Services
+Rachael,Male,5/29/1999,01:19 AM,50096,3.529,False,Sales
+David,Female,6/10/1991,12:37 PM,52915,8.146,True,Product
+Sharon,Female,1/4/2019,04:09 PM,58250,8.195,False,Business Development
+Jonathan,Female,9/30/2011,01:36 AM,85013,8.595,False,
+Taylor,Female,3/2/1993,04:51 AM,129617,18.205,False,
+Kim,,7/19/1992,11:35 AM,132938,11.288,False,Product
+Amy,Male,2/14/1995,01:26 AM,53395,6.541,True,Sales
+Natalie,Female,12/14/2001,02:18 AM,106340,4.738,True,Distribution
+George,Female,2/14/1986,09:32 AM,132792,7.648,True,
+Gwendolyn,Female,2/24/2022,10:25 PM,117208,5.555,True,Product
+Sabrina,Male,1/30/2004,08:29 PM,119118,9.19,False,Sales
+Mark,Female,3/21/2012,11:54 AM,149314,9.844,True,Sales
+Nicholas,Male,6/18/2001,03:45 AM,128917,13.386,False,Client Services
+Erica,Male,1/21/1987,12:49 AM,120559,3.259,True,Client Services
+Jonathan,Male,3/8/2002,06:33 PM,115059,18.091,True,Business Development
+Wendy,Female,3/24/2025,04:20 AM,65655,15.925,True,Distribution
+Zachary,Female,6/23/1987,09:20 AM,40125,4.201,True,Marketing
+Pamela,Male,10/14/2001,07:42 AM,67875,2.224,True,Business Development
+Nathaniel,Female,3/23/2009,07:18 AM,88956,7.336,False,Finance
+Beth,,7/26/2001,02:32 PM,127609,17.37,False,Client Services
+Robert,Female,4/11/2011,06:12 PM,83394,4.673,False,Product
+Felicia,,12/3/2018,10:01 AM,73385,14.498,False,Client Services
+Stephen,Male,7/25/2023,03:11 PM,69712,3.667,True,Marketing
+Chase,,8/6/2020,03:11 AM,54120,16.532,False,Distribution
+Anthony,Male,3/2/1989,03:46 AM,89587,2.463,True,Sales
+Douglas,,10/27/1987,08:48 AM,127347,11.228,True,Finance
+Elizabeth,Female,4/25/2015,10:43 PM,128417,2.295,True,Business Development
+Lorraine,Female,3/30/2007,03:03 PM,99974,13.201,True,Sales
+Mathew,Female,4/25/2015,03:02 AM,81995,2.572,False,Product
+James,Female,7/8/1992,06:54 PM,41513,1.857,True,Sales
+David,Male,5/15/2008,01:17 AM,138327,18.624,True,Business Development
+Cynthia,Female,5/31/2001,04:25 PM,73473,14.024,False,Distribution
+Jennifer,Female,11/25/1986,08:29 PM,100270,8.943,False,Distribution
+Rebekah,Female,1/28/2002,01:56 AM,72640,14.805,False,Product
+Francisco,Male,5/30/1996,07:17 PM,49814,4.106,False,Product
+Jamie,Female,4/2/1993,02:50 AM,79383,13.334,False,
+Lauren,Female,3/2/1987,08:34 AM,51316,2.777,True,
+Jonathan,Female,2/10/2015,02:06 AM,104220,16.562,False,Distribution
+Jeremiah,Female,1/20/2018,04:03 PM,72433,3.427,True,Distribution
+Erik,Male,10/8/2019,01:09 PM,78443,4.188,True,Finance
+Karen,,6/19/1995,10:14 AM,113561,19.582,True,Finance
+Nicole,,3/9/2020,09:54 AM,62809,2.817,True,Product
+Joe,Female,12/9/1995,04:56 AM,135756,4.208,False,Product
+Raymond,Female,9/28/2001,03:19 PM,124871,8.011,False,Marketing
+Douglas,,7/14/2003,12:04 AM,122351,6.087,False,Finance
+Kristy,Male,7/5/2003,02:51 PM,143447,19.739,False,Sales
+John,Female,9/7/2000,07:14 AM,128161,19.744,False,Distribution
+Nicholas,Female,10/13/2022,05:02 AM,108315,9.683,True,Sales
+Julie,Male,9/12/2016,09:59 AM,83320,6.893,True,Business Development
+Jonathan,Female,2/10/2013,10:57 PM,74327,10.573,True,Sales
+Evan,Male,6/7/2000,10:52 PM,49434,16.866,False,Finance
+Erin,Male,9/28/1992,07:16 PM,61836,8.99,True,Business Development
+Laura,Male,1/5/2016,05:04 AM,62962,10.865,False,Client Services
+Mark,Female,6/13/2022,05:19 PM,48437,15.817,True,Finance
+Mikayla,Male,3/12/2022,10:17 PM,143906,4.354,False,Product
+Vincent,Female,2/13/2010,06:49 PM,67892,13.69,True,Sales
+Francis,Male,10/28/2012,09:09 AM,50583,7.074,False,Client Services
+Cynthia,Male,7/4/2015,11:06 PM,41769,16.934,True,Distribution
+James,Female,12/11/2019,08:08 AM,42366,13.309,False,Sales
+Stephanie,Male,12/13/2020,07:07 AM,52583,13.86,False,Marketing
+Mark,Male,5/13/2009,03:24 AM,44046,17.077,False,Sales
+Theresa,Female,2/4/2009,03:12 PM,42289,2.058,True,Marketing
+Nicholas,Female,6/23/2015,03:14 AM,127807,1.502,True,Business Development
+Teresa,Male,5/27/2024,04:18 AM,69659,9.352,True,Marketing
+Anna,Female,6/21/2015,10:35 PM,73097,10.02,False,Sales
+Norma,,8/24/2021,01:28 PM,56922,3.658,True,Client Services
+Christine,Male,2/4/2014,08:28 PM,122696,15.941,False,Business Development
+Meredith,Male,3/17/2006,02:34 PM,59714,3.346,False,Product
+Crystal,Female,7/14/1997,07:38 AM,102011,13.635,False,Finance
+Ashley,Male,4/1/2012,06:29 AM,67254,18.681,True,Product
+Nathan,Male,12/3/1988,05:26 AM,79023,3.853,False,
+Angela,Female,6/24/2014,09:27 PM,136230,15.765,False,Finance
+Gregory,Male,11/17/2004,06:34 AM,111216,7.739,True,Finance
+Sean,Male,10/6/2008,06:55 AM,128156,19.004,False,Marketing
+Taylor,Male,1/24/2001,06:37 AM,46148,1.601,False,Business Development
+Brad,Female,3/8/2014,01:43 PM,77639,14.268,True,Sales
+Brenda,Male,11/8/1996,06:51 PM,44919,14.889,True,Distribution
+Beverly,Male,2/11/1990,08:41 AM,51262,19.898,True,Business Development
+Cynthia,Female,12/16/2000,05:51 PM,113895,1.019,True,Marketing
+Roger,Male,10/12/2012,06:07 AM,60590,3.693,False,Product
+Vincent,Male,10/28/2013,03:12 AM,148265,12.809,True,Business Development
+Jason,Female,1/9/2025,07:38 AM,49160,2.419,False,Marketing
+Denise,,3/11/2002,02:04 PM,72880,14.243,True,Finance
+Joshua,Female,12/4/2007,05:32 AM,102797,5.769,True,Sales
+Jacob,Female,10/23/1996,11:26 AM,55264,12.499,False,Client Services
+Kevin,Male,4/22/2020,12:35 AM,141277,9.578,True,Sales
+Erin,Male,10/17/2009,07:16 AM,130817,18.079,True,
+Kimberly,Female,7/10/1997,11:47 AM,129202,5.082,False,Business Development
+Laura,Female,7/21/2017,08:35 PM,119840,9.102,True,Marketing
+Alexander,Female,7/11/2005,12:19 AM,58626,19.099,False,Sales
+Ashley,Female,9/29/1989,02:54 PM,114560,1.02,False,Marketing
+John,Female,12/9/2010,08:31 PM,89016,17.539,True,Sales
+Alexis,Female,11/15/2005,12:16 PM,66038,6.41,True,Finance
+Joshua,,5/6/1991,01:56 AM,63223,17.136,False,Business Development
+Jaclyn,Female,9/21/2009,09:05 PM,132940,15.15,True,Client Services
+James,Female,1/30/1998,11:54 PM,127044,7.97,True,Client Services
+Sarah,Female,4/14/2017,06:10 PM,124929,11.783,True,
+Jason,,11/20/1995,01:57 AM,78886,6.758,False,
+Stacy,Female,6/22/2017,12:53 PM,129504,18.388,False,Sales
+Richard,Male,6/17/1991,07:03 AM,67323,8.535,False,Business Development
+Daniel,Male,10/11/1995,12:59 PM,43174,9.665,True,Client Services
+Mary,Male,8/10/2012,06:01 PM,47480,3.85,False,Distribution
+Lori,Male,1/17/2020,12:28 PM,46083,10.626,False,Finance
+Jennifer,Female,5/25/2004,02:07 AM,74143,4.724,False,Business Development
+Jason,Male,11/6/1990,05:48 PM,149046,3.313,False,
+Mitchell,Male,3/31/2009,08:34 PM,115136,4.643,False,Client Services
+Matthew,Female,7/23/1990,05:21 AM,136702,14.717,True,Finance
+Patrick,Male,8/18/2021,11:07 AM,50621,11.522,False,Business Development
+Marc,Male,11/4/2000,11:44 AM,111409,8.954,False,Distribution
+Sarah,Male,11/28/2007,06:38 AM,59716,2.342,True,Sales
+Erin,Male,3/29/1994,03:37 AM,62745,13.922,True,Client Services
+April,Female,7/12/2004,06:10 AM,72367,5.161,True,Marketing
+Ryan,Male,9/25/2010,09:04 AM,112199,10.577,True,Sales
+Lauren,Female,3/8/1999,04:34 AM,40093,3.088,False,Marketing
+Laura,Female,5/21/2012,08:18 PM,58229,7.959,True,Finance
+Dwayne,Female,3/13/2003,06:21 PM,42422,2.909,True,Sales
+Heather,Female,8/21/2020,05:25 AM,105143,18.677,True,Client Services
+Miranda,Male,9/18/2022,01:50 AM,56911,10.56,False,Product
+Gabrielle,Female,10/3/2023,03:53 AM,126849,1.523,False,Business Development
+Angela,Female,5/29/2013,02:10 AM,118531,4.634,True,Client Services
+Kathy,Male,3/14/2007,12:36 AM,49139,10.781,True,Business Development
+Karen,Male,10/17/1991,08:46 PM,58591,8.461,False,Product
+Ricky,Female,5/5/1999,09:28 AM,142434,5.663,True,Finance
+Marc,,6/18/2010,05:55 PM,106219,14.219,False,Finance
+Laurie,Male,5/5/2025,10:42 PM,101936,4.22,False,Sales
+Joseph,Female,2/10/2025,01:42 PM,102631,12.782,True,
+Lori,Female,10/16/2022,01:12 AM,119089,10.742,True,Marketing
+Heather,Male,5/13/1990,04:43 AM,82071,19.539,False,Sales
+Heather,Female,8/15/1991,08:53 AM,127308,9.352,True,Distribution
+Jonathan,Male,6/4/2019,07:42 PM,128883,19.177,True,Distribution
+Mia,Male,7/1/2019,08:09 PM,135345,9.205,True,Product
+Karl,Male,7/19/2019,05:45 PM,127990,18.783,False,
+Melanie,Male,2/10/1987,10:56 AM,85437,8.305,False,
+Jonathan,Female,10/4/1997,02:21 PM,54569,15.584,False,Finance
+Phillip,Male,1/19/1986,10:44 PM,112740,2.249,True,Distribution
+Jessica,Female,11/28/1998,06:41 PM,62243,2.659,False,Distribution
+Jason,Male,6/29/2020,10:35 AM,91959,18.465,True,Marketing
+Paul,Male,3/28/1996,02:07 AM,67701,3.916,True,Business Development
+Tami,Female,11/7/1994,08:17 PM,129876,2.096,True,Sales
+Debbie,Female,8/1/2017,08:00 PM,67350,4.77,False,Finance
+Kelli,Female,4/26/2017,04:08 AM,47821,3.799,True,Distribution
+Tammie,Female,5/2/1997,09:42 PM,124207,5.071,True,Business Development
+Fred,Female,9/30/2000,03:29 PM,64457,7.835,False,
+Donald,Male,5/29/1992,12:59 AM,73293,12.788,False,Finance
+Latasha,Female,8/1/2011,03:20 AM,78556,14.29,False,Distribution
+Vicki,Female,11/16/1985,11:12 PM,68821,12.991,False,Product
+Jorge,Female,1/19/2025,08:01 AM,102885,1.945,True,Business Development
+Megan,,8/16/2011,11:59 AM,125227,18.68,True,Distribution
+Cynthia,Male,7/23/1990,06:45 AM,103339,15.912,False,Finance
+Ryan,Female,5/19/2024,10:42 AM,40812,1.35,False,Finance
+Vincent,Male,1/11/2021,02:28 AM,45853,6.479,False,Distribution
+Erica,Female,10/24/2002,05:38 PM,88188,11.883,True,Finance
+Kim,,4/4/2007,09:51 AM,147921,12.383,True,Client Services
+Belinda,Male,3/8/2005,12:57 AM,117801,5.481,False,Finance
+Penny,Female,8/15/1990,03:05 PM,145161,4.552,False,Distribution
+Samantha,,11/21/2000,07:18 AM,119063,17.45,True,
+Rachael,Male,10/24/2019,11:30 AM,66274,19.357,False,Business Development
+Charles,Female,4/1/1991,06:15 AM,58814,5.64,False,
+Kayla,Male,4/20/1993,09:09 AM,137269,19.213,False,Distribution
+Shannon,Male,4/29/2004,12:56 PM,136568,3.178,True,Product
+Billy,,2/18/2020,10:50 AM,81048,11.777,True,Finance
+Bethany,Male,6/2/1993,09:48 PM,137056,1.874,False,Finance
+Mark,Female,3/18/2022,12:28 PM,42032,3.827,False,Distribution
+Misty,Male,2/14/2009,04:53 PM,51488,13.882,False,Sales
+Ronald,Female,4/9/2021,03:46 AM,81647,5.769,False,Business Development
+Andrew,Female,6/27/1994,09:43 AM,51614,14.239,True,Product
+Linda,Female,8/18/2022,12:39 PM,64112,1.204,True,Marketing
+Dakota,Male,5/15/1990,01:04 PM,143765,9.385,False,Business Development
+Zachary,,2/19/2024,08:06 PM,142863,8.127,False,Business Development
+John,Male,5/16/2011,07:12 PM,54128,1.691,False,Client Services
+Wayne,Female,3/19/1991,01:01 AM,106330,7.4,True,Distribution
+Mary,Female,8/15/2023,07:22 AM,105250,2.115,False,Business Development
+Karen,Male,7/8/2004,04:39 AM,65598,17.202,False,Product
+Ashley,Male,3/21/2014,11:30 PM,55878,14.684,False,Finance
+Jeffery,Male,3/26/2007,01:18 AM,149503,6.576,True,
+Manuel,Male,3/30/2002,01:32 AM,66130,7.007,True,Business Development
+Frank,Male,2/23/2011,07:59 PM,100529,10.215,False,
+Bruce,Male,10/20/2024,12:43 PM,115742,11.115,True,Product
+Thomas,Male,2/12/1998,05:47 AM,61190,18.416,True,Sales
+Joseph,Male,11/11/2002,04:42 PM,67097,14.203,True,Distribution
+Paula,Male,7/21/2023,01:22 AM,46297,5.293,True,Finance
+Shelby,Female,9/6/2016,12:52 PM,123297,7.867,False,Client Services
+John,Female,3/24/1999,11:02 PM,77946,2.533,False,Client Services
+Michelle,Male,2/8/2010,01:54 AM,110611,3.888,True,Marketing
+Amanda,Female,4/13/2003,06:43 PM,144733,10.735,True,Product
+Brian,Male,8/15/1998,09:19 PM,68170,6.056,True,Client Services
+Dustin,Male,3/18/2011,12:17 PM,138054,8.1,True,Marketing
+Stacy,Male,12/9/2020,09:23 PM,86986,8.41,False,Client Services
+Brandon,Female,7/9/1985,01:36 AM,127469,1.96,False,
+Taylor,Male,2/29/2000,07:56 AM,75955,10.152,True,Client Services
+Russell,Male,7/30/1987,09:49 PM,85614,2.207,True,Sales
+Melissa,Male,6/5/2007,05:07 PM,75356,11.456,False,Client Services
+Rachel,Female,2/12/2009,07:17 AM,88414,6.363,False,Sales
+Nicholas,Female,4/1/2018,12:28 AM,102697,4.09,True,Client Services
+Julie,Male,4/8/1996,11:21 PM,82206,1.954,False,Distribution
+Melissa,Male,1/28/2012,12:36 AM,95215,7.889,True,Business Development
+Maria,,8/7/2017,06:17 PM,79252,10.429,True,Finance
+Kimberly,Female,3/15/2017,11:46 AM,102960,8.533,True,Finance
+Jesse,Male,12/16/1986,09:56 AM,97282,17.006,True,Business Development
+Michael,Male,1/17/2025,04:23 PM,139097,3.685,True,Product
+Michael,Male,5/27/2012,07:55 PM,69187,8.421,True,Distribution
+Samantha,Female,6/3/1991,11:53 AM,111855,8.008,True,Client Services
+Tammy,Female,1/3/2011,03:03 AM,54897,17.168,True,Finance
+Erin,Female,4/11/2013,03:54 PM,131251,10.065,False,Distribution
+Joseph,Male,4/18/2017,03:18 PM,148119,16.04,True,
+Samantha,Female,10/7/1995,10:24 AM,95947,14.419,False,Product
+Amy,Female,5/12/2004,09:45 PM,80330,3.42,False,Business Development
+Sean,Female,6/25/1992,09:34 PM,62152,19.73,False,Product
+David,Female,12/20/2023,05:38 PM,75020,2.95,False,Client Services
+Kiara,Female,9/28/1993,04:06 PM,115182,7.226,True,
+Lindsey,Female,12/24/1985,10:00 AM,69204,10.78,False,Finance
+Kim,Male,8/20/1988,08:59 AM,58571,7.595,False,Product
+Gregory,Female,1/15/2008,07:01 PM,73174,9.357,False,Product
+Ronald,Female,3/25/1986,06:45 AM,93132,8.698,True,Marketing
+Misty,Male,4/16/1996,08:34 AM,149515,19.117,False,
+Douglas,Male,12/30/2021,02:30 PM,41067,15.546,False,Sales
+Jonathan,Female,11/14/2021,02:57 AM,131750,9.677,False,Marketing
+Steve,,10/15/2019,03:55 AM,93840,9.582,True,Client Services
+Nicole,Male,1/8/2004,01:45 PM,88212,3.893,False,Business Development
+William,Female,8/19/2011,11:11 PM,127263,12.808,False,Business Development
+Johnny,Female,4/20/2018,12:28 AM,122505,16.672,False,Client Services
+James,Female,5/19/2004,04:23 AM,104933,18.034,False,
+James,Male,11/15/1993,09:11 AM,110110,19.487,True,
+Tyler,Female,6/25/2006,04:51 PM,109124,13.275,True,Marketing
+Cheryl,Male,6/5/1999,08:54 PM,78613,10.705,True,Product
+Charles,Male,4/2/2003,02:40 AM,100791,4.493,True,Sales
+Nancy,Female,6/16/2012,07:09 AM,120445,3.139,True,Sales
+Samuel,Female,5/31/2010,06:35 PM,73784,7.257,True,Distribution
+John,Male,2/6/2024,03:13 PM,82086,18.303,True,Marketing
+Michelle,Male,9/13/2003,03:28 PM,65432,8.43,True,Finance
+Amanda,,4/29/1998,11:28 AM,144994,3.884,True,Marketing
+Monica,Female,8/17/2010,06:01 PM,46900,12.654,False,Sales
+Javier,Male,10/15/2009,01:17 AM,98544,13.585,True,Business Development
+Sharon,Male,12/29/2002,06:47 PM,125637,16.771,True,Product
+Russell,Female,1/1/2005,10:12 PM,77198,7.932,False,Business Development
+Janice,Male,10/3/1990,12:55 PM,134227,14.5,False,Marketing
+April,Female,10/30/2003,12:55 PM,120870,14.781,False,Distribution
+Stacy,Female,9/6/1986,04:14 AM,135733,4.34,False,Client Services
+Stephanie,Female,3/20/2003,04:00 AM,142478,15.978,False,Client Services
+Cassandra,Female,9/10/2024,03:38 AM,124830,18.197,False,Sales
+Christopher,Male,6/2/2021,03:42 PM,45078,2.733,True,Business Development
+Elizabeth,Female,11/1/1993,03:44 PM,43543,13.698,True,Distribution
+Alexander,Male,2/13/1992,06:13 AM,47631,3.982,True,
+Michael,Male,11/12/2008,08:20 PM,122037,18.772,True,Business Development
+Charles,Male,3/19/2003,07:39 AM,66569,7.749,True,Finance
+Olivia,,11/30/2022,04:09 AM,89515,10.554,True,Marketing
+Michael,Female,8/22/1989,03:16 PM,140054,6.281,False,Business Development
+Diana,Female,10/10/2015,11:40 AM,147300,8.14,False,Business Development
+Aimee,Male,5/4/2008,06:07 PM,76576,15.092,False,Product
+Brian,Female,12/3/1996,07:07 AM,85361,12.478,False,
+Thomas,,7/19/2022,05:43 AM,79216,1.633,True,Business Development
+Lawrence,Female,5/26/2012,06:38 AM,149256,9.455,False,Product
+Anthony,Female,7/2/1989,11:06 AM,116486,1.422,False,Client Services
+Ronald,,3/6/1987,12:14 AM,79566,9.247,True,Product
+Billy,Female,9/16/2015,04:06 PM,143618,6.722,False,Client Services
+Jenna,Female,8/19/2013,11:04 PM,42974,8.706,False,
+Anne,Male,3/8/1990,11:42 AM,68170,9.494,True,Client Services
+Lee,Male,9/6/1988,12:13 PM,65013,11.676,True,Finance
+Daniel,Female,7/18/2022,06:37 PM,86993,17.821,False,
+Christy,Male,4/21/1988,07:11 PM,41178,19.164,False,Business Development
+Joseph,Male,11/8/2010,05:46 AM,123851,1.983,True,Product
+Paul,Female,10/16/1996,12:42 PM,108876,4.932,True,Business Development
+Richard,Male,10/1/2007,08:07 PM,110685,2.557,True,Product
+David,Male,4/5/2022,11:32 PM,105173,6.101,True,Client Services
+Natalie,Female,4/17/1987,02:48 PM,103119,5.24,False,Product
+Aaron,Female,6/19/2019,05:35 AM,124506,17.661,True,Client Services
+Marvin,Female,11/12/1987,11:27 AM,146097,15.586,True,Product
+Crystal,Male,4/27/2022,05:16 AM,106352,3.794,False,Finance
+Austin,Male,12/19/2024,10:08 AM,147104,17.659,True,Client Services
+Wesley,Male,7/17/2007,09:41 AM,118488,17.786,False,Client Services
+Benjamin,Female,7/3/1988,09:36 AM,104489,7.92,True,
+Christopher,,2/16/2021,02:53 PM,116725,9.1,True,Client Services
+Nichole,Male,9/27/2002,10:03 AM,95996,7.12,False,Sales
+Daniel,Female,10/10/2002,03:23 AM,99363,10.825,False,Sales
+Ana,Female,6/15/2015,03:35 AM,70114,5.675,True,Business Development
+Danielle,Male,11/15/2005,10:40 PM,97353,14.583,False,Business Development
+Robert,,1/15/2022,05:48 AM,93642,4.282,True,Business Development
+Cody,Female,3/3/2013,06:58 PM,93502,10.9,True,Product
+Lisa,Male,12/6/1990,11:39 AM,114151,15.197,True,Finance
+Paul,Female,4/25/2025,06:42 PM,78612,2.532,False,Distribution
+Nathan,Female,6/19/2004,09:36 PM,126333,15.1,False,
+Anthony,Female,4/17/2002,02:28 AM,88722,11.334,True,Client Services
+Maurice,Female,7/7/1995,06:49 PM,112528,5.345,True,Marketing
+Sarah,Female,11/28/2012,02:34 AM,108083,1.599,False,Sales
+John,Female,5/6/2020,09:37 AM,86699,3.395,False,Finance
+Vicki,Male,4/17/1988,01:12 AM,115917,16.531,True,Business Development
+Jennifer,Female,6/24/1991,11:28 AM,74775,16.695,True,Distribution
+Stacey,Female,4/20/1995,06:40 AM,103588,15.892,True,Sales
+Christopher,Female,2/12/1990,04:16 AM,107376,7.386,False,Sales
+James,Male,11/13/2023,08:49 AM,75997,6.682,False,Finance
+April,Female,6/29/2014,02:29 AM,62986,11.124,True,Marketing
+Cassandra,Female,9/2/2003,07:28 AM,89223,14.168,False,Sales
+Tammy,Male,11/26/2014,01:34 PM,77423,8.41,False,Sales
+Sharon,Male,9/22/2007,11:20 PM,115228,11.1,True,Distribution
+Jennifer,Male,5/3/1989,08:27 AM,74398,15.031,False,Marketing
+Sherri,Female,8/5/1995,07:18 AM,119509,5.203,False,Client Services
+Erin,Female,4/17/2010,06:17 AM,124746,6.837,False,Business Development
+Katie,Male,10/30/2004,07:39 PM,116051,19.378,True,Distribution
+Robert,Male,12/13/2002,04:57 PM,86216,3.964,True,Sales
+Stephen,,3/27/2008,03:15 AM,67475,2.476,True,Distribution
+Kaitlin,Female,1/31/2002,11:13 AM,46564,18.8,True,Client Services
+Keith,Male,9/6/2023,09:35 PM,68357,12.222,False,Finance
+James,Female,10/21/2008,07:18 PM,52340,12.248,True,Sales
+Roberto,Male,4/2/2003,01:16 PM,93389,1.288,False,Marketing
+Brian,Male,12/14/2000,02:22 PM,112227,1.9,False,
+Curtis,,11/15/1993,10:57 AM,47370,17.004,False,
+Mary,Female,12/8/1988,05:04 AM,97523,5.522,False,Sales
+Jose,Female,12/20/2006,09:56 AM,74192,3.122,True,Finance
+Dustin,Male,9/4/2019,05:29 PM,99421,18.534,False,Sales
+Kathleen,Male,9/24/1988,04:30 AM,102562,4.263,True,Sales
+Christopher,Male,2/3/2023,08:02 AM,135421,8.248,False,Distribution
+Abigail,Male,6/15/1993,05:12 AM,146694,3.923,False,Finance
+William,Female,9/16/2020,11:25 AM,125913,8.449,True,Sales
+Alexander,Female,1/21/2013,06:09 AM,104429,19.494,True,Client Services
+Jeffery,Male,2/20/1986,08:35 PM,111702,18.251,True,Sales
+Christopher,Male,5/30/1987,11:06 AM,121059,16.209,True,Finance
+Tara,Female,4/17/2001,08:36 PM,139720,19.954,False,
+David,Male,6/14/1996,06:38 PM,93958,7.621,True,Sales
+Michael,,5/11/1994,09:32 AM,79219,17.095,False,Business Development
+Jonathan,,4/4/2007,07:04 AM,115043,7.729,True,Distribution
+Alexandria,Female,12/3/1999,01:06 PM,128244,13.671,False,Client Services
+Jade,,12/11/2007,11:51 AM,91214,2.496,False,Client Services
+Ana,Male,6/14/2024,01:16 PM,46255,3.24,False,Marketing
+Aaron,Male,9/7/2002,05:02 AM,101602,3.945,True,Sales
+Keith,Female,7/29/2004,04:41 PM,137801,12.049,False,
+Ashley,Female,1/3/2009,06:41 AM,133304,14.785,False,Sales
+Dawn,Female,6/4/2003,12:46 PM,78460,9.177,False,Distribution
+William,Female,11/25/2008,12:06 PM,92465,11.168,False,Distribution
+Craig,Female,12/27/2001,10:33 PM,100115,11.902,False,Finance
+Brian,Female,12/7/2011,02:28 AM,56609,5.161,False,Marketing
+Olivia,Female,9/12/1986,10:50 PM,69590,5.496,True,Product
+Marissa,,6/14/1991,02:51 PM,79821,15.661,False,Sales
+Christina,Male,5/3/1993,09:36 PM,110354,14.974,False,Business Development
+Jody,Female,3/13/1995,12:47 PM,128477,1.745,False,Client Services
+April,Male,11/20/2008,06:44 PM,69414,8.854,True,Sales
+Jennifer,Female,8/7/2019,11:21 AM,139761,10.062,False,Business Development
+Jennifer,Male,11/19/2019,10:00 PM,105808,7.789,False,Distribution
+Jessica,Male,8/27/2008,08:18 AM,75217,15.094,True,Finance
+Angela,Male,1/1/1994,01:57 AM,51597,18.237,True,Finance
+James,,8/15/2020,10:34 AM,79322,1.823,False,Client Services
+Michael,Male,6/19/1987,08:55 AM,138167,17.921,False,Client Services
+Jeffrey,Male,10/9/2012,05:37 PM,95021,17.131,True,Client Services
+Matthew,Male,1/20/2021,04:04 AM,149581,16.81,False,Business Development
+Joanna,Male,11/8/2013,02:10 AM,105106,11.975,False,Marketing
+Richard,Male,8/27/1989,10:44 PM,48664,6.559,False,Client Services
+Joshua,Female,6/20/1996,01:40 AM,71286,10.128,False,Distribution
+William,Male,3/17/2019,01:16 PM,104169,13.789,False,Product
+Angela,Male,11/18/1987,09:08 AM,79046,5.805,True,Distribution
+Daniel,Male,3/25/2018,05:51 AM,136914,10.954,False,Client Services
+Jamie,Female,3/24/1994,03:11 PM,115706,11.626,False,Product
+Jared,Male,12/30/1992,08:16 PM,118629,11.031,True,Business Development
+Vanessa,Male,9/16/1989,06:06 PM,108039,12.194,False,Client Services
+Alison,Female,4/27/2015,08:32 AM,59588,6.245,True,Product
+Wendy,Female,8/27/1985,11:34 AM,51860,7.833,True,Distribution
+Brian,Female,10/9/2015,05:33 PM,148742,13.418,True,Product
+Melissa,,9/28/2024,07:48 AM,67397,16.322,False,Finance
+Amy,Female,12/23/2012,05:06 PM,87434,13.295,True,Sales
+Frank,Female,9/11/1997,09:06 AM,55071,1.582,False,Distribution
+Robert,Female,6/3/2018,11:00 AM,142819,13.328,True,Sales
+David,Female,4/15/2019,07:55 PM,107002,2.427,True,Marketing
+Manuel,,12/13/1996,12:49 AM,135500,7.808,False,Finance
+Daniel,Male,5/2/2019,09:21 PM,52701,14.713,True,Business Development
+Andrew,Female,12/26/1996,09:14 AM,62349,14.151,False,Client Services
+Maria,Female,5/1/2005,10:32 PM,137366,4.283,True,
+Stephanie,Male,10/30/1991,08:37 PM,108538,5.63,False,Client Services
+Steven,Male,10/2/2010,12:02 PM,104604,1.746,True,Marketing
+Joseph,Male,10/7/1999,10:45 AM,132449,18.234,False,Business Development
+David,Male,11/26/2017,09:57 AM,103833,17.258,True,
+Corey,Male,1/9/2020,07:13 AM,97737,14.751,False,Business Development
+George,Female,1/29/2012,10:56 PM,103720,11.81,True,Client Services
+Charles,Male,6/2/2019,02:58 AM,44382,3.225,True,Finance
+Veronica,Female,10/19/2020,04:24 PM,117045,16.785,True,Product
+Shawn,,12/18/2018,08:44 AM,140949,10.876,True,Finance
+Patty,,7/23/2005,05:10 AM,62554,2.059,False,Distribution
+Jessica,Female,2/1/2016,08:31 AM,91685,3.946,False,Finance
+Deborah,Male,11/20/2000,05:16 AM,58140,15.641,False,Client Services
+Cynthia,,8/31/2020,01:16 AM,130575,13.468,False,Client Services
+Ryan,Female,12/15/1988,07:08 AM,49241,11.097,False,Finance
+Marie,Female,1/16/2004,04:29 AM,140787,16.87,False,Distribution
+Gabrielle,,6/4/1998,05:27 PM,83056,17.607,False,
+Matthew,Male,3/30/2020,05:38 PM,136442,13.024,True,Finance
+Mark,Male,1/26/1998,08:28 AM,106521,16.282,False,Finance
+Christopher,Male,6/5/1992,08:24 AM,98175,13.855,False,Marketing
+Lori,Male,10/10/1999,05:39 AM,138538,10.549,True,Sales
+David,Female,6/21/2001,09:06 AM,50708,15.717,False,Client Services
+Robert,Female,9/30/2003,10:36 AM,76083,9.476,False,Sales
+Jean,,4/27/1987,07:47 PM,67587,1.493,False,Finance
+April,Female,5/7/1989,08:31 AM,66731,16.191,True,
+Tanya,,5/30/2004,02:40 PM,65477,16.016,True,Finance
+Jessica,Male,12/10/2024,10:47 PM,53434,16.523,False,Business Development
+Nicholas,Male,5/23/1987,08:59 PM,122799,6.408,False,
+Christopher,Female,4/18/2015,06:00 AM,64999,2.152,False,Business Development
+Kelly,Male,2/15/2005,12:01 PM,125788,7.4,True,Business Development
+Monica,Female,12/6/1997,05:10 PM,98679,2.321,True,Product
+Keith,Female,7/10/1999,10:37 PM,123725,8.419,False,Business Development
+Suzanne,Male,5/26/1993,10:06 AM,102079,3.867,True,Business Development
+Thomas,Male,2/6/2020,12:35 PM,89190,19.207,False,Marketing
+Jodi,Male,4/26/1994,10:38 PM,139385,13.817,True,
+Alicia,Male,8/20/2013,06:03 PM,91405,18.649,True,Business Development
+Christina,Male,4/6/2005,11:10 PM,66997,6.967,False,Client Services
+Thomas,Male,4/6/2005,08:39 AM,101963,6.685,True,Distribution
+Betty,Male,2/24/1992,03:32 PM,107778,10.625,True,Sales
+Melissa,Female,3/27/1994,12:09 PM,99357,16.418,True,Finance
+Melissa,Male,3/3/2018,09:22 PM,46001,6.403,True,Marketing
+Hannah,Female,10/16/2021,08:36 PM,75898,9.987,True,Marketing
+Julian,Male,1/20/2015,07:48 PM,79789,12.703,True,Marketing
+Valerie,Female,12/4/2001,04:18 PM,69190,2.658,True,Finance
+Vanessa,Male,10/12/1996,08:29 AM,73543,13.18,False,Business Development
+Carrie,,12/25/2010,01:03 AM,145040,8.887,False,Client Services
+Kristen,Male,3/22/1988,02:58 AM,119691,8.094,True,Marketing
+Jeremy,Female,11/15/1990,10:57 AM,40610,3.663,False,Client Services
+Lee,,4/8/1997,02:31 PM,65986,17.67,False,Client Services
+Sean,Female,2/20/1994,07:31 PM,122072,17.744,False,Product
+Jennifer,Female,2/28/1994,11:49 PM,50002,6.139,False,Business Development
+Brittany,,8/23/2002,10:06 AM,43235,4.964,False,Business Development
+Casey,Male,11/30/1986,10:15 PM,119122,5.304,True,Product
+Christine,Female,12/28/2022,01:38 PM,49939,6.467,True,Sales
+Kenneth,Male,8/16/2017,06:38 PM,98697,12.647,False,
+Kevin,Female,12/20/1998,09:54 AM,79246,6.037,True,Marketing
+Elizabeth,,9/29/2014,07:11 AM,113308,18.541,False,
+Danny,Male,10/9/1992,05:14 AM,99676,12.729,False,Client Services
+Brandy,Male,11/28/1993,02:47 AM,142179,5.641,False,Business Development
+Paul,Female,9/14/1992,06:45 AM,140447,11.611,True,Sales
+Theresa,Female,1/26/1993,02:10 PM,98794,1.391,True,Sales
+Bradley,Male,1/10/2006,01:45 PM,57716,16.777,True,Product
+Monique,Female,9/30/1992,06:04 AM,69479,10.119,False,Product
+Rachel,Female,7/15/1999,04:17 AM,147178,17.23,False,Finance
+Preston,Female,4/15/1987,03:25 AM,81998,4.066,True,Client Services
+Debbie,Male,3/15/2010,06:29 PM,130727,4.951,True,Client Services
+Matthew,Female,9/2/2006,05:42 AM,130963,5.835,False,Product
+Beth,Female,5/10/2006,08:52 PM,120688,19.905,True,Distribution
+Adam,Male,10/19/2009,09:43 AM,69591,16.335,False,Finance
+Julie,Male,3/29/1998,12:23 AM,43388,5.076,True,Marketing
+Carrie,Female,2/28/2017,07:43 AM,47774,12.65,False,
+Derek,Female,3/19/1993,03:27 AM,88106,17.751,True,Distribution
+Christine,Female,10/4/2004,03:31 AM,143359,6.367,False,Product
+Mark,Female,4/18/2024,12:43 PM,148446,2.323,True,Finance
+Kiara,Male,11/15/2010,10:13 AM,90657,6.853,False,Business Development
+Michelle,Female,3/8/1999,12:48 AM,72827,1.675,True,Finance
+Matthew,Female,9/16/1994,03:02 PM,56817,18.141,True,Sales
+Carrie,Female,2/3/2025,03:58 PM,73417,9.393,False,Finance
+Edward,Female,1/17/2009,01:42 PM,78329,11.476,True,Marketing
+Teresa,Male,6/16/1998,08:14 PM,117207,7.86,False,Product
+Erika,Female,3/9/1998,05:12 AM,77001,6.899,True,Marketing
+David,Male,5/4/2017,09:45 AM,101897,5.53,False,Product
+Nicholas,Male,7/26/2004,04:43 PM,102198,18.558,True,Business Development
+Nicole,Female,3/15/1989,09:47 PM,107191,13.174,False,Business Development
+Kelsey,Female,2/4/2023,03:48 PM,65736,1.576,True,Finance
+Dana,Female,4/25/1998,09:08 AM,41715,14.543,True,Business Development
+Kathleen,Female,10/28/2012,10:08 PM,130934,15.619,True,
+Brian,,10/3/1987,10:37 PM,46902,4.595,True,Marketing
+Barbara,Female,10/14/1996,07:24 PM,116705,13.832,True,Business Development
+Ann,Female,1/4/2006,10:02 PM,59515,11.765,True,Product
+Dylan,Male,12/30/2007,12:44 PM,54534,15.811,False,Client Services
+Katelyn,Male,7/22/2015,08:13 PM,125128,13.802,True,Finance
+Jimmy,Male,8/5/1989,11:08 AM,103407,12.21,False,Product
+Barry,Male,7/26/1997,04:54 AM,113922,7.947,False,Product
+Samuel,Male,8/17/2008,11:14 PM,127526,7.272,True,Client Services
+Benjamin,,4/30/2019,03:52 AM,146959,5.756,True,Client Services
+Calvin,Female,1/29/1995,06:16 PM,79719,3.977,False,Client Services
+Mary,Female,11/21/1986,12:56 AM,126840,1.764,False,Business Development
+Antonio,Female,3/4/2025,02:24 AM,67986,13.327,True,Sales
+Michael,Female,11/11/2009,08:23 AM,118405,17.864,False,Client Services
+Cody,Female,11/1/2018,06:23 PM,114927,11.694,True,Product
+Joseph,,1/5/1993,07:05 AM,119890,4.309,False,Marketing
+Richard,Male,3/23/2011,04:42 PM,104172,18.358,False,Finance
+Greg,Male,2/9/1995,06:21 PM,67078,7.059,False,Sales
+Philip,Male,2/5/2004,02:03 AM,86157,3.803,True,Marketing
+Louis,Female,8/6/2000,01:05 PM,132293,13.648,True,Distribution
+William,Female,12/25/2008,07:26 AM,80807,5.026,False,Client Services
+Brittany,Female,2/2/1986,02:31 AM,84950,13.083,False,Client Services
+Natasha,Male,11/11/1995,02:44 PM,116957,14.421,False,Sales
+Stephanie,Male,5/30/2018,05:18 PM,149369,13.784,True,Product
+Rebecca,Female,5/12/1994,06:30 PM,56340,10.45,False,Business Development
+Alexis,Male,12/6/2001,02:36 AM,115318,16.034,True,Finance
+Brooke,Female,8/24/2003,06:29 PM,96050,16.652,True,Sales
+Michael,Male,5/15/1995,11:59 PM,113635,7.762,False,Distribution
+Cory,Male,5/31/1988,03:17 PM,116697,13.283,True,Sales
+Sophia,Male,10/12/1988,08:14 PM,69905,17.514,True,Sales
+Kelly,Male,8/13/2001,05:47 PM,109830,16.464,False,Finance
+Rebecca,Female,7/30/1989,04:36 AM,57158,1.684,True,Finance
+Sabrina,Male,1/26/2004,08:52 AM,90084,16.384,False,Finance
+Christopher,Male,8/12/1987,01:04 AM,73866,10.536,False,Client Services
+Katherine,Female,7/23/2022,10:58 PM,59808,2.646,True,Distribution
+Sheila,Male,10/12/2022,12:08 AM,132213,15.683,True,Client Services
+Justin,Male,6/11/2001,02:32 AM,101072,10.742,False,Marketing
+Benjamin,Male,2/22/1990,02:06 AM,149401,8.365,True,Sales
+Caleb,Male,9/20/2007,12:12 AM,80020,5.518,True,Sales
+Jacqueline,Female,6/13/2022,09:02 PM,113751,18.126,True,Marketing
+Bryan,Female,6/19/2017,03:52 AM,131741,2.63,False,Client Services
+Kenneth,Male,8/15/2011,04:14 AM,135648,4.502,True,Distribution
+Alexis,Male,11/13/1990,05:29 PM,108307,18.588,True,Sales
+Antonio,Male,7/3/2009,10:30 AM,54523,5.556,False,Sales
+Regina,Male,12/15/2009,04:15 PM,49991,7.754,True,Business Development
+Chelsea,Female,11/24/2017,11:16 PM,84584,14.685,True,Sales
+Andres,Male,1/16/2024,03:57 PM,84633,5.872,False,
+Hannah,Female,10/30/2011,04:36 PM,144202,14.469,True,Finance
+Lauren,Male,11/11/1998,12:49 PM,129374,15.59,False,Finance
+Sharon,Female,6/15/1988,05:49 PM,122854,16.375,True,Client Services
+Yolanda,Female,11/9/1998,02:28 PM,132161,17.764,False,Finance
+Zoe,Female,6/16/1993,12:16 PM,68077,6.922,True,Sales
+Mary,Female,2/26/1989,11:57 AM,99194,16.409,False,Distribution
+Brett,Male,5/28/1992,01:37 AM,106440,15.338,False,Sales
+Evelyn,Male,12/20/2015,04:59 AM,137390,7.825,True,Sales
+Justin,Female,11/25/2001,12:35 PM,139678,6.679,False,Distribution
+Wayne,Female,9/6/1992,09:35 AM,62578,8.81,True,Business Development
+Thomas,Male,1/2/1990,11:12 PM,133390,18.963,False,Product
+Leslie,Female,5/23/1994,03:25 AM,62373,15.41,False,Finance
+Robert,Female,7/2/2003,06:45 PM,127557,14.952,True,
+Pamela,Male,8/12/2018,09:37 AM,122293,1.087,True,Client Services
+Andrew,Female,8/25/2000,01:18 AM,63341,14.944,True,Client Services
+Jennifer,Female,4/10/2006,11:54 AM,121635,5.05,False,Distribution
+Kristen,Male,8/8/2022,06:22 AM,101630,18.907,True,
+Samuel,Male,4/23/2008,03:12 PM,128643,8.618,True,Client Services
+Patricia,Female,5/10/2010,05:53 AM,77120,9.415,False,Client Services
+Walter,Female,4/24/2022,05:27 AM,65035,1.606,False,Marketing
+Sarah,Male,7/26/2019,12:58 AM,137464,13.676,False,
+David,Male,3/5/1989,06:44 PM,63308,5.884,False,Marketing
+Faith,Male,5/20/2023,02:18 PM,58576,14.839,True,Product
+Troy,Male,8/13/1993,01:17 PM,97947,18.906,True,
+Kimberly,Male,8/16/2012,12:32 PM,148473,7.058,True,Marketing
+Jonathan,Female,8/9/2001,02:37 PM,121780,2.199,False,Marketing
+Bryan,Male,5/14/2014,10:51 PM,94303,18.291,True,Business Development
+Kristina,Male,6/3/1995,01:30 AM,92030,19.867,False,
+Christopher,,5/8/2008,02:09 AM,53987,13.37,True,Business Development
+Amanda,Female,12/29/2023,02:06 AM,110176,3.283,False,Distribution
+Bradley,Female,8/26/2024,03:21 PM,116322,19.2,True,Product
+Sheryl,Female,1/30/2018,12:40 PM,54917,13.999,False,Marketing
+Edward,,5/16/2005,09:52 PM,149126,9.534,True,Sales
+Julia,Female,3/22/1993,01:44 PM,120729,17.906,True,
+Margaret,,1/22/2011,05:34 AM,112658,19.367,True,Product
+James,Male,12/2/1999,03:20 PM,121072,2.237,False,Distribution
+Alan,Female,5/18/1994,12:32 PM,94759,14.861,True,Marketing
+Margaret,Female,2/6/2012,11:23 AM,129862,17.255,False,Marketing
+Erin,Female,7/26/2022,06:12 AM,42093,19.048,True,Sales
+Paul,Female,4/3/1997,10:39 AM,92797,5.806,False,Marketing
+Tina,Male,5/24/2006,09:56 PM,91818,4.875,True,Business Development
+Brittney,,5/12/2025,01:44 PM,130127,15.82,True,
+Dale,,3/19/1999,02:00 AM,148653,10.097,False,Distribution
+Deborah,Male,1/19/1990,04:55 AM,129598,15.721,True,Sales
+John,Female,11/5/2015,03:42 AM,106915,18.048,False,Sales
+Henry,Female,2/2/1997,05:35 AM,59687,17.806,False,Client Services
+Megan,Female,3/21/1998,12:04 PM,84191,6.774,True,Finance
+David,Male,10/27/1986,03:06 AM,40655,13.389,False,Product
+Lauren,Male,1/3/2005,04:46 PM,115511,12.735,True,Business Development
+Ryan,Male,10/28/2012,03:57 PM,108104,8.816,False,
+Michelle,Female,6/3/2017,12:30 AM,49608,14.897,True,Finance
+Jonathan,Female,6/17/1993,10:54 AM,147463,2.865,True,Sales
+Chad,Male,11/7/1988,06:06 AM,122745,17.966,False,Business Development
+Rachel,Male,4/16/2003,02:33 AM,101858,3.579,False,
+Shari,Female,1/17/1988,02:54 AM,106468,4.925,True,Business Development
+William,Male,2/16/2004,12:42 PM,78132,8.64,False,Sales
+Samantha,Female,10/29/2003,09:38 AM,112160,18.739,False,Finance
+Rebecca,Male,7/4/2016,05:05 PM,57477,15.35,False,Sales
+Richard,Male,6/27/2000,06:37 PM,65986,7.17,True,
+Lori,Female,7/31/2002,02:44 AM,131718,3.884,True,Distribution
+Carlos,Female,6/24/1987,03:39 AM,81230,9.331,True,Business Development
+Sharon,Female,7/11/1992,10:43 AM,124775,8.025,False,Finance
+Amy,Female,2/21/2011,06:28 PM,145611,15.992,True,
+Tyler,,7/14/1988,02:13 PM,98856,3.261,True,Client Services
+Jessica,Male,8/14/2023,03:48 AM,127654,8.045,True,Marketing
+Michael,Male,5/1/1990,03:48 PM,90594,16.426,True,
+Martha,Female,10/3/1985,04:03 PM,81743,1.954,True,Product
+Ashley,Male,1/10/2010,12:52 AM,140396,4.915,True,
+Phyllis,Male,9/4/2024,05:03 AM,73295,9.172,True,
+Logan,Female,6/6/2020,09:07 AM,89228,10.917,True,Client Services
+Stephanie,Male,10/16/1998,12:11 PM,43802,3.202,True,Marketing
+Andrea,Male,8/25/2016,08:20 AM,70610,13.574,False,Client Services
+Jonathan,Male,1/7/2021,09:04 PM,111138,11.567,True,Distribution
+Donna,Male,2/5/2019,10:04 AM,51952,14.28,False,Finance
+Suzanne,,10/24/1994,11:39 AM,107170,17.419,True,Product
+Sarah,Female,9/5/2003,02:23 AM,67098,11.81,True,Marketing
+Justin,Male,1/17/2000,02:45 PM,59223,9.932,False,Client Services
+Felicia,Female,7/15/2001,07:18 PM,149775,12.376,True,Distribution
+Amanda,Male,3/1/2023,10:55 PM,54365,3.358,True,Client Services
+Kimberly,,5/20/1997,09:49 AM,57888,13.066,False,Finance
+Marissa,Male,5/21/1999,08:54 AM,101525,7.739,True,Marketing
+Kenneth,Female,2/14/2022,02:46 AM,85719,16.986,False,Distribution
+Christopher,Female,4/20/2024,02:41 AM,136846,15.154,True,
+Kevin,Male,5/22/2012,12:55 PM,64490,17.664,True,Business Development
+Jessica,Male,6/9/2024,03:11 AM,49291,5.566,False,Finance
+Jennifer,Female,9/8/2024,06:16 PM,88519,13.308,False,Finance
+Daniel,Female,3/25/1995,07:05 AM,135880,17.651,True,Sales
+Melanie,Female,6/12/2012,01:50 AM,89240,6.128,True,Finance
+John,Male,1/23/1990,06:56 AM,71597,18.653,False,Distribution
+Cindy,Female,4/29/2009,12:19 AM,57127,10.229,False,Marketing
+Robert,Female,10/31/2001,05:39 PM,70014,17.036,False,Finance
+Richard,Male,2/15/1988,10:50 PM,76342,2.102,True,Sales
+Shelley,Male,11/12/1997,07:09 AM,76415,10.593,False,Client Services
+James,Female,1/5/1990,10:32 AM,81526,10.516,False,Product
+Mary,Male,6/5/1989,05:47 PM,96889,14.289,True,Sales
+Joseph,Male,5/6/1986,01:26 PM,113328,19.125,True,Sales
+Jorge,Male,7/14/2020,11:55 AM,126073,8.634,False,Distribution
+Raymond,,12/19/1993,06:24 PM,108922,17.572,True,Finance
+Robyn,Male,1/25/2006,06:51 AM,60236,18.894,False,Product
+Matthew,Female,1/18/1987,09:17 AM,140818,10.733,True,Marketing
+Darren,Male,1/20/2009,05:00 PM,81469,5.591,False,Business Development
+Ryan,Female,1/14/1990,06:07 PM,55380,16.758,True,Product
+Jose,Male,12/26/1985,11:43 PM,53832,10.206,False,Finance
+Jennifer,Male,9/10/2020,08:36 AM,60437,14.443,True,Client Services
+Richard,Male,10/7/2000,09:13 PM,71274,14.374,False,Marketing
+Victoria,Female,2/2/1992,08:35 PM,125160,19.983,True,
+Maria,Male,9/10/1999,01:37 AM,111779,11.545,True,Product
+Sarah,,10/25/2005,02:22 PM,95456,19.639,False,Product
+Brian,Female,8/12/2002,09:39 PM,106126,2.654,False,Distribution
+Andrew,,3/8/2002,05:19 PM,88189,6.621,True,Client Services
+Valerie,Male,12/22/1994,07:16 PM,72477,9.583,True,Finance
+Penny,Female,4/26/1986,03:07 AM,125758,14.243,True,Product
+Andrew,Female,7/11/2009,01:49 AM,92772,15.887,True,Business Development
+Jenna,Male,4/8/2022,02:33 AM,79047,7.959,False,Product
+Danielle,Male,10/27/1991,09:40 AM,131110,3.268,False,Product
+Erin,Female,8/8/1991,03:34 AM,110557,9.227,True,Sales
+Tara,Female,9/1/1985,08:47 PM,75939,4.435,False,Finance
+Steven,Female,11/7/2001,10:26 PM,54061,7.761,False,Sales
+Christopher,Female,10/5/2006,11:27 AM,120776,10.281,False,Marketing
+Julie,Female,11/9/2004,02:41 PM,125115,9.894,True,Client Services
+Sarah,Female,9/11/2021,05:50 AM,146916,18.72,False,Sales
+Madeline,Male,7/23/2008,09:21 AM,121360,17.127,False,Distribution
+Brad,Female,9/11/2020,07:38 PM,85443,10.614,False,Marketing
+Alison,,10/19/2011,04:50 AM,70342,15.643,False,Business Development
+Nathan,Male,8/28/1991,09:00 PM,107269,5.245,True,Distribution
+Megan,Male,4/8/1989,01:00 PM,47601,4.705,False,Marketing
+Sarah,Female,1/21/2019,09:15 PM,42515,14.666,True,Sales
+Megan,Male,8/18/2010,04:14 PM,100532,14.067,False,Client Services
+Jeff,Male,10/10/2011,10:30 AM,108221,19.64,True,
+Matthew,,12/7/1992,07:05 PM,46700,4.553,False,Product
+Ricardo,Male,6/21/2008,03:30 AM,94850,8.054,False,Distribution
+Nicholas,Male,12/20/2004,10:46 AM,47548,15.974,True,Marketing
+Gina,Female,10/20/1987,01:00 AM,54089,3.315,True,Sales
+Ronald,Male,3/11/1991,06:22 AM,119527,10.658,False,Client Services
+Sarah,Male,6/21/1998,03:46 PM,147415,8.155,True,Product
+Michael,Female,5/29/2014,08:30 AM,108187,4.787,True,Distribution
+Holly,Female,3/24/2001,12:28 AM,147022,7.828,False,Product
+Sharon,Male,11/8/1988,04:12 PM,71659,13.387,True,Marketing
+Barry,Male,8/30/2013,10:31 AM,97050,3.831,False,Finance
+Dakota,Female,3/14/2004,12:21 PM,47166,8.801,True,Distribution
+Robert,Female,8/27/2007,03:18 PM,69762,18.175,False,Marketing
+Steven,Female,7/8/2023,07:45 PM,71783,7.952,True,Sales
+Sandra,Female,8/11/2015,02:50 AM,114476,3.108,False,Distribution
+Kimberly,Male,7/4/2019,02:06 AM,49213,6.583,True,Finance
+Laura,Female,10/1/2014,03:25 AM,109164,14.976,False,Client Services
+William,Female,9/6/2012,05:29 AM,93095,11.584,False,Sales
+Leah,Female,1/5/1986,12:34 AM,54004,4.862,True,Finance
+Cheyenne,Female,12/11/2002,07:28 AM,130573,15.418,True,Business Development
+Jaime,Male,8/25/2007,06:12 AM,119984,1.161,True,
+Michael,Male,3/20/2004,02:51 PM,94726,17.245,True,Business Development
+Corey,,9/12/2016,01:20 AM,43801,10.864,False,Client Services
+Ryan,Female,2/2/2021,12:07 PM,93309,5.119,False,
+Michael,,12/22/1994,04:57 PM,110076,7.886,False,
+Bruce,,5/31/2000,11:27 AM,109184,8.369,False,
+Emma,Female,7/2/1997,10:41 AM,63056,10.384,False,Marketing
+Gina,,12/8/2006,02:59 AM,110470,13.526,False,Sales
+Matthew,Female,3/8/2019,08:18 PM,146321,16.692,True,Client Services
+Danielle,Female,5/17/2001,10:33 PM,139816,17.418,False,Sales
+Stephanie,Male,3/5/2007,07:49 AM,70400,13.09,False,Client Services
+Stacy,Female,12/25/2007,07:49 AM,129852,1.196,True,Finance
+Katrina,,2/21/2014,01:22 PM,140684,6.911,True,Sales
+Laura,Male,1/20/2000,06:07 AM,116173,3.523,True,Client Services
+Jennifer,Female,11/26/2003,12:16 PM,100309,8.935,False,Client Services
+Curtis,Male,3/10/1992,05:03 AM,111268,16.015,True,Client Services
+Kelly,Female,5/6/2006,01:30 PM,95985,2.571,False,Finance
+Krista,Female,2/1/1993,05:07 PM,117468,1.401,False,Business Development
+Brenda,Male,3/1/2012,10:19 PM,117692,16.648,False,Distribution
+Christopher,Female,7/1/2018,04:17 AM,94947,19.572,True,Client Services
+Timothy,Female,9/25/1990,04:20 AM,129232,6.575,True,Finance
+Nancy,Female,8/2/2015,09:04 AM,125311,13.4,False,Finance
+Daniel,Female,12/23/1997,07:47 AM,112541,10.038,False,Sales
+Scott,Female,6/2/2008,11:39 PM,131130,16.086,False,Client Services
+Brandon,Female,9/15/2019,09:45 PM,110340,14.619,True,Product
+Michael,Male,11/18/2006,04:07 AM,120344,8.312,True,Client Services
+Linda,Male,12/10/2001,02:47 AM,126595,17.405,True,
+Raymond,Female,6/18/1999,03:33 PM,110299,10.741,False,Finance
+Melissa,Female,4/22/2000,05:33 AM,124217,17.213,False,Sales
+Keith,Female,4/3/2013,01:41 PM,130829,18.773,True,Marketing
+Andrea,Female,11/25/1998,06:35 AM,135481,4.785,True,Client Services
+David,Male,11/13/1986,04:30 PM,43424,10.59,True,Client Services
+Deanna,,3/9/1994,10:11 PM,99375,7.324,False,Client Services
+Melissa,Male,2/12/2023,09:12 PM,85670,16.323,True,Finance
+Amy,Male,4/3/2008,08:35 AM,63282,8.752,True,Business Development
+Brittany,Male,6/7/1999,11:56 PM,45199,1.795,True,Marketing
+Kristen,Female,11/27/2006,07:02 PM,142439,16.744,False,Finance
+Christopher,Female,11/10/2021,06:10 PM,125671,19.899,False,Finance
+Christopher,Female,11/22/2001,06:29 PM,96374,7.242,True,Business Development
+Roy,Female,7/31/1985,12:34 PM,102704,14.737,True,
+David,Male,8/5/2013,11:16 AM,42082,4.805,True,Client Services
+Willie,Male,2/18/2004,04:13 AM,104880,18.325,True,Marketing
+Anthony,Male,4/30/2004,11:08 AM,101523,7.103,True,Product
+Martin,Female,9/12/2014,01:42 PM,70573,17.656,False,Client Services
+Amanda,Female,3/4/1992,02:54 AM,69516,7.095,True,Sales
+Matthew,Female,11/17/2012,03:14 PM,52321,6.221,True,Marketing
+Catherine,Male,3/7/1991,08:10 PM,145951,14.3,False,Finance
+John,Female,1/6/2015,04:17 AM,86808,18.705,True,Finance
+Adam,Male,1/28/2015,08:48 PM,45057,9.882,True,Business Development
+Joseph,Female,8/7/2009,04:12 PM,127794,8.457,True,Distribution
+Gregory,Female,8/17/2003,06:30 AM,113788,11.433,False,Business Development
+Jacob,Male,6/17/1994,03:23 PM,54747,6.365,False,Distribution
+Anita,Male,1/18/2018,10:11 AM,110521,4.098,False,Marketing
+Maureen,,9/1/1987,05:25 PM,114977,11.666,True,Business Development
+Jessica,Female,5/6/1998,06:33 AM,82894,18.262,False,Finance
+Erik,Male,12/11/2022,11:55 AM,107816,8.271,False,Marketing
+Thomas,Male,5/19/2013,03:05 AM,132586,4.913,False,
+John,Male,1/15/1991,08:10 AM,76559,10.736,False,Finance
+Ricardo,Female,9/8/1996,07:04 AM,122874,7.665,True,Sales
+Jennifer,Male,9/9/2022,01:24 AM,97748,19.317,True,Business Development
+Maureen,Female,11/19/1985,02:06 PM,131715,4.427,True,Sales
+Stephanie,Male,1/4/2000,04:29 AM,108890,5.628,False,Finance
+Matthew,Male,9/14/1988,09:42 PM,66145,17.495,True,
+Emma,Male,4/15/2023,06:16 AM,134420,5.076,False,
+Christina,Male,6/18/2021,06:48 AM,45644,17.221,True,Business Development
+Kim,Female,4/16/2013,08:51 PM,99216,13.514,True,Product
+Felicia,Male,5/15/1992,05:12 AM,78603,3.117,True,Business Development
+Katherine,Female,4/23/2020,11:09 AM,75440,10.55,False,Client Services
+Jesse,Male,2/22/2002,04:31 PM,79819,12.578,False,Client Services
+Tonya,Male,7/25/1986,07:34 AM,86494,2.371,True,
+James,Female,9/12/2010,01:12 PM,71395,3.144,True,Distribution
+Alejandro,Female,1/20/2005,08:28 AM,81914,7.169,True,Marketing
+Jennifer,Female,2/21/2007,09:14 PM,115885,17.444,True,
+Thomas,Male,9/7/1994,02:42 AM,80649,4.684,False,Client Services
+Roy,Male,8/17/1988,01:07 PM,145479,1.629,False,Finance
+Mary,Female,5/21/2005,03:22 AM,55647,18.61,True,Product
+Cynthia,Female,5/12/1990,07:08 PM,113441,9.991,True,Marketing
+Charles,Female,3/12/2025,12:01 PM,45988,19.392,True,Finance
+Adrian,Male,8/3/2021,02:54 PM,116103,8.41,False,Product
+John,Female,6/12/1990,09:58 PM,100605,17.75,True,
+Kim,Male,11/8/2000,03:50 AM,143466,17.383,True,Distribution
+Lori,Male,12/12/2006,02:38 AM,73414,15.496,True,
+Michael,,9/3/1987,03:17 AM,129041,8.471,False,Product
+Douglas,Female,9/29/2022,12:43 PM,94976,18.537,True,Business Development
+Paul,Male,3/30/1994,06:02 AM,127428,17.257,False,Client Services
+Kevin,Female,5/8/2012,03:03 AM,105022,17.218,True,Marketing
+Katherine,Female,9/6/2007,05:57 AM,110730,19.156,True,Business Development
+William,,2/15/2018,02:28 AM,125297,3.288,False,Finance
+Richard,Male,5/1/2019,03:53 AM,72487,18.11,False,Sales
+Miguel,Female,5/11/1986,03:58 PM,58852,4.305,True,Distribution
+Phillip,Male,9/22/2006,10:16 AM,106078,9.57,True,Distribution
+Angela,Male,8/23/2020,07:16 AM,51438,18.363,False,Marketing
+Joel,Male,12/5/1987,11:51 PM,61177,8.987,True,Business Development
+Jeffery,Female,3/17/2021,09:45 PM,66718,5.398,False,Business Development
+Katie,Female,1/7/1999,07:48 AM,75685,17.091,False,Marketing
+Stephanie,Female,7/25/1989,09:05 PM,146860,16.17,False,Business Development
+Tammy,Male,11/19/2002,08:56 AM,72020,18.89,False,Distribution
+Cole,Female,7/30/2015,09:49 AM,107848,9.844,True,Marketing
+Andre,Female,4/21/1986,10:54 PM,62704,5.507,True,Sales
+Sarah,Male,9/19/1990,06:47 PM,112795,18.535,True,Marketing
+Theresa,Male,4/5/2003,07:22 AM,122672,7.924,True,Sales
+Lisa,Male,11/10/2013,01:54 PM,127548,3.069,False,Marketing
+Paul,Male,11/18/2020,10:03 PM,78509,17.106,False,Client Services
+Lynn,Female,2/4/2022,06:14 AM,79786,13.659,False,Client Services
+Kimberly,Female,10/9/2018,11:47 PM,48396,12.807,False,Business Development
+Katie,Female,10/18/2019,10:13 PM,140046,4.965,False,Client Services
+Jamie,Male,9/24/2001,11:39 PM,53936,2.778,True,Product
+Roy,Female,2/4/2018,12:58 AM,112053,10.465,False,Business Development
+Jose,Male,8/22/2015,02:42 PM,66243,5.406,False,
+Mary,Female,10/27/1992,01:21 AM,132402,14.324,True,Marketing
+Samuel,Male,5/14/1998,10:15 PM,89213,16.996,False,Client Services
+Robert,,10/3/2012,06:44 AM,43380,13.726,True,Client Services
+Sarah,Male,12/6/2013,12:40 AM,104426,7.652,False,
+Jacob,,6/24/2004,06:21 PM,49203,12.039,False,Client Services
+Theresa,Female,9/27/1999,12:30 PM,75794,14.023,False,Client Services
+Timothy,Female,2/8/2007,04:16 PM,64811,13.644,True,Sales
+Roger,Male,2/15/1999,01:51 PM,129155,18.173,False,Business Development
+Rhonda,Female,7/4/2008,11:46 PM,55204,4.199,True,Sales
+Amy,Male,8/8/2021,07:48 AM,124011,3.949,False,Distribution
+Joseph,,8/20/2023,10:09 PM,122093,19.11,True,
+Jesse,Male,12/24/1995,05:00 PM,96122,2.043,False,Product
+Pamela,Female,2/28/2022,07:44 AM,110169,2.452,False,Business Development
+Russell,Male,2/26/2003,05:36 PM,147448,15.9,True,Distribution
+Carol,Female,8/20/2024,12:37 PM,98576,3.213,True,Finance
+Sherry,Male,6/30/2004,07:50 PM,111712,3.511,True,Sales
+Mark,Female,6/19/1986,01:45 PM,80285,12.579,False,Distribution
+Joe,Female,12/6/1998,02:29 AM,94248,3.631,False,Product
+Randy,Female,8/15/2011,12:04 AM,138203,4.789,True,Sales
+Javier,Male,11/10/2020,03:55 AM,107259,17.304,True,Product
+Kyle,Female,1/18/2007,04:37 PM,117542,1.362,False,Sales
+Connor,Male,3/4/2004,04:21 AM,83523,9.087,True,
+John,Female,3/6/2017,09:56 AM,52388,3.988,False,Product
+Kayla,Female,5/5/1995,03:46 PM,143487,2.846,True,Client Services
+Christina,Male,9/4/2001,08:33 PM,144629,10.448,False,Finance
+Anna,Female,11/26/2011,08:07 PM,87014,17.836,False,Business Development
+Melanie,Female,1/3/1994,08:47 PM,67861,6.406,True,Product
+Sandra,,2/10/2004,10:58 PM,99933,8.761,False,Distribution
+Ryan,Male,8/1/1996,01:39 AM,48265,19.155,False,Distribution
+Morgan,Female,4/25/1989,05:23 PM,114906,16.6,False,Product
+Richard,Female,1/22/2002,08:34 PM,131932,16.736,False,Distribution

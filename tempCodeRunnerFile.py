@@ -1,2 +1,1 @@
-import pandas as pd
-import numpy as np
+emp = pd.read_excel("excel/data_jobs_salary_all.xlsx")
