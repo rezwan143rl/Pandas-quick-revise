@@ -106,11 +106,35 @@ revenue = pd.read_csv("CSV/revenue.csv",index_col="Date")
 # print(nba.info())
 # # this helped data size from 62.5 kB to 38.8 KB
 
-# 11. sort values method                
+# # 11. sort values method                
 
-# nba.sort_values()                                                      # will result in error in data frame but works in series
-# print(nba.sort_values(by="Name"))                                      # alphabetic default ascending sort (nan position last default)
-# print(nba.sort_values(by="Name",ascending= False))                      # alphabetic descending sort (nan position last default)
-# print(nba.sort_values(by="Salary"))                  # numeric descending sort (nan position last default)
-print(nba.sort_values(by="Salary",ascending= False,na_position="first"))          # numeric descending sort (nan position first)
+# # nba.sort_values()                                                      # will result in error in data frame but works in series
+# # print(nba.sort_values(by="Name"))                                      # alphabetic default ascending sort (nan position last default)
+# # print(nba.sort_values(by="Name",ascending= False))                      # alphabetic descending sort (nan position last default)
+# # print(nba.sort_values(by="Salary"))                  # numeric descending sort (nan position last default)
+# print(nba.sort_values(by="Salary",ascending= False,na_position="first"))          # numeric descending sort (nan position first)
 
+# # 12. sort values using list of column
+
+# # print(nba.sort_values(by=["Team","Name"]))         # first one sorted first then within second one is sorted(copy)
+# # print(nba.sort_values(by=["Team","Name"],ascending=False))         # first one sorted first in desc then within second one is sorted in desc (copy)
+# # print(nba.sort_values(by=["Team","Name"],ascending=[False ,True]))         # first one sorted first in desc then within second one is sorted in asc (copy)
+
+# # print(nba.sort_values(by=["Position","Salary"]))  
+# # print(nba.sort_values(by=["Position","Salary"],ascending=False))      
+# # print(nba.sort_values(by=["Position","Salary"],ascending=[False ,True]))  
+# print(nba.sort_values(by=["Position","Salary"],ascending=[True ,False]))  
+
+# # 13. sort_index method
+# nba = nba.sort_values(by=["Team","Name"],ascending=[False ,True])        # destroying index
+# print(nba) # asc by default 
+# # print(nba.sort_index()) # asc by default 
+# print(nba.sort_index(ascending=False)) # desc 
+ 
+ # 14. ranking
+nba["Salary"]=nba["Salary"].fillna(0).astype("int")
+# print(nba["Salary"].rank()) # this ranks as lowest salary 1 then to highest 1001 so problem
+# print(nba["Salary"].rank(ascending=False)) # this ranks as higest salary 1 then to lowest 1001 so fixed this =copy
+nba["Salary rank"]=nba["Salary"].rank(ascending=False).astype(int) # saved in new column
+# print(nba)
+print(nba.sort_values(by="Salary",ascending=False).head(50))
