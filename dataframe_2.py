@@ -47,7 +47,23 @@ print(employee)
 # is_after_2016=employee["Start Date"]>"2016-01-01"
 # print(employee[is_robert_client | is_after_2016])
 
-#5. isin method
+# #5. isin method
 
-print(employee["Team"].isin(["Marketing","Product"])) # this gives boolean series
-print(employee[employee["Team"].isin(["Marketing","Product"])]) #
+# print(employee["Team"].isin(["Marketing","Product"])) # this gives boolean series
+# print(employee[employee["Team"].isin(["Marketing","Product"])]) #
+
+# # 6. isnull / notnull
+# team_is_null=employee["Team"].isnull()
+# team_is_not_null=employee["Team"].notnull()
+# first_name_null = employee["First Name"].isnull()
+# print(employee[team_is_null])
+# print(employee[team_is_not_null])
+# print(employee[first_name_null | team_is_not_null])
+
+# 7. between method
+sal_between = employee["Salary"].between(90000,120000) 
+print(employee[sal_between])
+date_between =employee["Start Date"].between("2000-01-01","2020-01-01")
+print(employee[date_between])
+time_between=employee["Last Login Time"].between(dt.time(9,30),dt.time(10,30))
+print(employee[time_between])
