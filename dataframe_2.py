@@ -14,19 +14,19 @@ employee["Last Login Time"]=pd.to_datetime(employee["Last Login Time"],format="%
 print(employee)
 
 
-# #2. filtering 
-# print(employee[employee["Gender"] == "Male"]) # this gives all male employes
-# # print(employee[employee["Team"] == "Finance"]) # this gives all finance team member
+# #2. filtering                     
+# print(employee[employee["Gender"] == "Male"])                     # this gives all male employes
+# # print(employee[employee["Team"] == "Finance"])                  # this gives all finance team member
 # on_finance_team=employee["Team"] == "Finance"
 # print(employee[on_finance_team]) # this do same
-# # print(employee[employee["Senior Management"]]) # as its already bolean series dont need to compare
-# print(employee[~employee["Senior Management"]]) # as its already bolean series dont need to compare ' ~ ' this means not or false
-# print(employee["Salary"].max()) # as its already bolean series dont need to compare ' ~ ' this means not or false
+# # print(employee[employee["Senior Management"]])                  # as its already bolean series dont need to compare
+# print(employee[~employee["Senior Management"]])                   # as its already bolean series dont need to compare ' ~ ' this means not or false
+# print(employee["Salary"].max())                   # as its already bolean series dont need to compare ' ~ ' this means not or false
 # print(employee[(employee["Salary"]>=140000)]) 
 # print(employee[(employee["Bonus %"]<1.5)]) 
 # print(employee[(employee["Start Date"]< "1990-01-01")]) 
-# print(employee[(employee["Last Login Time"]> dt.time(10,30))]) # for time we need the datetime library 
-# print(employee[(employee["Last Login Time"] == dt.time(12,20))]) # for time we need the datetime library 
+# print(employee[(employee["Last Login Time"]> dt.time(10,30))])                    # for time we need the datetime library 
+# print(employee[(employee["Last Login Time"] == dt.time(12,20))])                  # for time we need the datetime library 
 
 # # # 3. and for filtering
 # # #female employes who work for marketing
@@ -49,7 +49,7 @@ print(employee)
 
 # #5. isin method
 
-# print(employee["Team"].isin(["Marketing","Product"])) # this gives boolean series
+# print(employee["Team"].isin(["Marketing","Product"]))                 # this gives boolean series
 # print(employee[employee["Team"].isin(["Marketing","Product"])]) #
 
 # # 6. isnull / notnull
@@ -60,10 +60,38 @@ print(employee)
 # print(employee[team_is_not_null])
 # print(employee[first_name_null | team_is_not_null])
 
-# 7. between method
-sal_between = employee["Salary"].between(90000,120000) 
-print(employee[sal_between])
-date_between =employee["Start Date"].between("2000-01-01","2020-01-01")
-print(employee[date_between])
-time_between=employee["Last Login Time"].between(dt.time(9,30),dt.time(10,30))
-print(employee[time_between])
+# # 7. between method
+# sal_between = employee["Salary"].between(90000,120000) 
+# print(employee[sal_between])
+# date_between =employee["Start Date"].between("2000-01-01","2020-01-01")
+# print(employee[date_between])
+# time_between=employee["Last Login Time"].between(dt.time(9,30),dt.time(10,30))
+# print(employee[time_between])
+
+# # 8. duplicated method
+# # print(employee["First Name"].duplicated())                          # returns a boolean series duplicates are true 
+# duplicates=employee["First Name"].duplicated()
+# duplicates_first=employee["First Name"].duplicated(keep="first")                          # top down default
+# duplicates_last=employee["First Name"].duplicated(keep="last")                            # bottom up approach last values will be considered original
+# print(employee[duplicates])                           # this returns which are duplicates 
+# print(employee[~duplicates])                          # this returns which are not duplicates 
+# print(employee[~duplicates_last])                             # this returns which appeared last
+# print(employee[employee["First Name"].duplicated(keep=False)])                            # only gives which are uniquese
+# print(employee[~employee["First Name"].duplicated(keep=False)])                           # only gives which has no duplicates or unique
+
+# # 9. DROP_DUPLICATES METHOD
+# print(employee.drop_duplicates())               # this will check row wise if 2 row is same then it will drop the other occurances , it also has keep argument
+# print(employee.drop_duplicates(subset=["Team"]))
+# print(employee.drop_duplicates(subset=["Team"],keep="first")) # default
+# print(employee.drop_duplicates(subset=["Team"],keep="last")) # bottom up
+# print(employee.drop_duplicates(subset=["Team"],keep=False)) # no duplicates or original only unique should be showed if no unique then empty 
+# print(employee.drop_duplicates(subset=["First Name"],keep=False)) # no duplicates or original only unique should be showed if no unique then empty 
+# print(employee.drop_duplicates(subset=["Senior Management","Team"]).sort_values("Team")) # each time 2 unique of sm and 2 occurances of team . cause checking two
+# print(employee.drop_duplicates(subset=["Senior Management","Team"],keep="last").sort_values("Team")) # each time 2 unique of sm and 2 occurances of team . cause checking two
+
+# 10. unique and n unique
+#unique method works as catergoric better used in series
+print(employee["Gender"].unique()) # this returns number of category as a list
+print(employee["Team"].unique()) # this returns number of category as a list
+print(employee["Team"].nunique(dropna=True)) # this returns number of unique values by dropping nan(default)
+print(employee["Team"].nunique(dropna=False)) # this returns number of unique values by dropping nan
