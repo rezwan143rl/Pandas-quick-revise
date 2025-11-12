@@ -131,10 +131,10 @@ revenue = pd.read_csv("CSV/revenue.csv",index_col="Date")
 # # print(nba.sort_index()) # asc by default 
 # print(nba.sort_index(ascending=False)) # desc 
  
- # 14. ranking
-nba["Salary"]=nba["Salary"].fillna(0).astype("int")
-# print(nba["Salary"].rank()) # this ranks as lowest salary 1 then to highest 1001 so problem
-# print(nba["Salary"].rank(ascending=False)) # this ranks as higest salary 1 then to lowest 1001 so fixed this =copy
-nba["Salary rank"]=nba["Salary"].rank(ascending=False).astype(int) # saved in new column
-# print(nba)
-print(nba.sort_values(by="Salary",ascending=False).head(50))
+#  # 14. ranking
+# nba["Salary"]=nba["Salary"].fillna(0).astype("int")
+# # print(nba["Salary"].rank()) # this ranks as lowest salary 1 then to highest 1001 so problem
+# # print(nba["Salary"].rank(ascending=False)) # this ranks as higest salary 1 then to lowest 1001 so fixed this =copy
+# nba["Salary rank"]=nba["Salary"].rank(ascending=False).astype(int) # saved in new column
+# # print(nba)
+# print(nba.sort_values(by="Salary",ascending=False).head(50))
