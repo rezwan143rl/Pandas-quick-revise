@@ -95,3 +95,5 @@ print(employee["Gender"].unique()) # this returns number of category as a list
 print(employee["Team"].unique()) # this returns number of category as a list
 print(employee["Team"].nunique(dropna=True)) # this returns number of unique values by dropping nan(default)
 print(employee["Team"].nunique(dropna=False)) # this returns number of unique values by dropping nan
+print(employee.unique()) # error as dataframe has no unique method
+print(employee.nunique()) # this you know
